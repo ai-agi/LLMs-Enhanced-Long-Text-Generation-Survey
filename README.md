@@ -2,8 +2,6 @@
 
 Long Form NLG Generation  Based on Large Language Models
 
-> Contributed by: [Sky Chen](https://notion-next-six-rouge.vercel.app/)
-
 # **Resource**
 
   ## A. Task Perspective
