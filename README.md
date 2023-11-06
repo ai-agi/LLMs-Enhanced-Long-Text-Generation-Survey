@@ -22,7 +22,7 @@ Long Form NLG Generation  Based on Large Language Models
 
   ## B. Constraints Perspective
 
-  1. Fixed global memory for controllable long text generation. _Zheng Chen, Zhejun Liu._ [\[pdf\]](https://dl.acm.org/doi/abs/10.1007/s10489-022-04197-6). `Applied Intelligence,     2022`.
+  1. Fixed global memory for controllable long text generation. _Zheng Chen, Zhejun Liu._ [\[pdf\]](https://dl.acm.org/doi/abs/10.1007/s10489-022-04197-6). `Applied Intelligence, 2022`.
 
   ## C. Technique Perspective
 
