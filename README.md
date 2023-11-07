@@ -1,4 +1,4 @@
-# LLMs-Enhanced-Long-Text-Generation-Survey
+![image](https://github.com/ai-agi/LLMs-Enhanced-Long-Text-Generation-Survey/assets/149247430/b1f8daec-8023-4396-a02a-104f3fc3d2ae)# LLMs-Enhanced-Long-Text-Generation-Survey
 
 Long Form NLG Generation  Based on Large Language Models
 
@@ -18,6 +18,14 @@ Long Form NLG Generation  Based on Large Language Models
   ### _A.3 Long Document Summarization_
 
 
+
+  ### _A.4 Long-Form Narrative Text_
+ 
+  1. EIPE-text: Evaluation-Guided Iterative Plan Extraction for Long-Form Narrative Text Generation.Wang You, WenshanWu, Yaobo Liang, Shaoguang Mao, Chenfei Wu, Maosong Cao, Yuzhe Cai, Yiduo Guo, Yan Xia, Furu Wei, Nan Duan, [[pdf]](https://arxiv.org/pdf/2310.08185.pdf).`Arxiv 12 Oct 2023`.
+
+  ### _A.5 Commensense Story_
+  
+ 1. A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation.Jian Guan, Fei Huang, Zhihao Zhao, Xiaoyan Zhu, Minlie Huang, [[pdf]](https://aclanthology.org/2020.tacl-1.7.pdf)`tacl 1 Jan 2020`
 
   ## B. Constraints Perspective
 
@@ -40,3 +48,20 @@ Long Form NLG Generation  Based on Large Language Models
   ### C.4 Language Models
 
   1. A Survey of Large Language Models.Wayne Xin Zhao, Kun Zhou, Junyi Li,  [[pdf]](https://arxiv.org/abs/2303.18223) `arxiv *31 Mar 2023*`
+  2. Long and Diverse Text Generation with Planning-based Hierarchical Variational Model.Zhihong Shao, Minlie Huang, Jiangtao Wen, Wenfei Xu, Xiaoyan Zhu,  [[pdf]](https://arxiv.org/pdf/1908.06605.pdf)`arxiv *25 Aug 2019*`
+  3. Long Text Generation by Modeling Sentence-Level and Discourse-Level Coherence.Jian Guan, Xiaoxi Mao, Changjie Fan, Zitao Liu, Wenbiao Ding, and Minlie Huang, [[pdf]](https://arxiv.org/pdf/2105.08963.pdf)`arxiv 19 May 2021`
+  4. Coherent Long Text Generation by Contrastive Soft Prompt.Guandan Chen, Jiashu Pu, Yadong Xi, Rongsheng Zhang, [[pdf]](https://aclanthology.org/2022.gem-1.42.pdf)`acl 7 Dec 2022`
+  5. A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation.Jian Guan, Fei Huang, Zhihao Zhao, Xiaoyan Zhu, Minlie Huang, [[pdf]](https://aclanthology.org/2020.tacl-1.7.pdf)`tacl 1 Jan 2020`
+  6. LongT5 Efficient Text-To-Text Transformer for Long Sequences
+
+
+  
+
+
+
+
+
+
+
+
+
