@@ -1,4 +1,4 @@
-![image](https://github.com/ai-agi/LLMs-Enhanced-Long-Text-Generation-Survey/assets/149247430/b1f8daec-8023-4396-a02a-104f3fc3d2ae)# LLMs-Enhanced-Long-Text-Generation-Survey
+# LLMs-Enhanced-Long-Text-Generation-Survey
 
 Long Form NLG Generation  Based on Large Language Models
 
@@ -27,9 +27,16 @@ Long Form NLG Generation  Based on Large Language Models
   
  1. A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation.Jian Guan, Fei Huang, Zhihao Zhao, Xiaoyan Zhu, Minlie Huang, [[pdf]](https://aclanthology.org/2020.tacl-1.7.pdf)`tacl 1 Jan 2020`
 
+
+  ### _A.6 Reviews_
+  
+ 1. Towards coherent and cohesive long-form text generation.Woon Sang Cho, Pengchuan Zhang, Yizhe Zhang, Xiujun Li, Michel Galley, Chris Brockett, Mengdi Wang, Jianfeng Gao, [[pdf]](https://aclanthology.org/W19-2401.pdf)`acl 1 Nov 2018`
+
+
   ## B. Constraints Perspective
 
   1. Fixed global memory for controllable long text generation. _Zheng Chen, Zhejun Liu._ [\[pdf\]](https://dl.acm.org/doi/abs/10.1007/s10489-022-04197-6). `Applied Intelligence, 2022`.
+  2. Critic-Guided Decoding for Controlled Text Generation.Minbeom Kim, Hwanhee Lee, Kang Min Yoo, Joonsuk Park, Hwaran Lee, Kyomin Jung, [[pdf]](https://arxiv.org/pdf/2212.10938.pdf)`arxiv 21 Dec 2022`
 
   ## C. Technique Perspective
 
@@ -50,13 +57,54 @@ Long Form NLG Generation  Based on Large Language Models
   1. A Survey of Large Language Models.Wayne Xin Zhao, Kun Zhou, Junyi Li,  [[pdf]](https://arxiv.org/abs/2303.18223) `arxiv *31 Mar 2023*`
   2. Long and Diverse Text Generation with Planning-based Hierarchical Variational Model.Zhihong Shao, Minlie Huang, Jiangtao Wen, Wenfei Xu, Xiaoyan Zhu,  [[pdf]](https://arxiv.org/pdf/1908.06605.pdf)`arxiv *25 Aug 2019*`
   3. Long Text Generation by Modeling Sentence-Level and Discourse-Level Coherence.Jian Guan, Xiaoxi Mao, Changjie Fan, Zitao Liu, Wenbiao Ding, and Minlie Huang, [[pdf]](https://arxiv.org/pdf/2105.08963.pdf)`arxiv 19 May 2021`
-  4. Coherent Long Text Generation by Contrastive Soft Prompt.Guandan Chen, Jiashu Pu, Yadong Xi, Rongsheng Zhang, [[pdf]](https://aclanthology.org/2022.gem-1.42.pdf)`acl 7 Dec 2022`
-  5. A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation.Jian Guan, Fei Huang, Zhihao Zhao, Xiaoyan Zhu, Minlie Huang, [[pdf]](https://aclanthology.org/2020.tacl-1.7.pdf)`tacl 1 Jan 2020`
-  6. LongT5 Efficient Text-To-Text Transformer for Long Sequences
+  4. Coherent Long Text Generation by Contrastive Soft Prompt.Guandan Chen, Jiashu Pu, Yadong Xi, Rongsheng Zhang, [[pdf]](https://aclanthology.org/2022.gem-1.42.pdf)`acl 7 Dec 2022
 
+ #### Pretrained Language Models
+ 
+  1. Progressive Generation of Long Text with Pretrained Language Models.Bowen Tan, Zichao Yang, Maruan Al-Shedivat, Eric P. Xing, Zhiting Hu, [[pdf]](https://aclanthology.org/2021.naacl-main.341.pdf)`naacl 11 Jun 2021`
+  2. A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation.Jian Guan, Fei Huang, Zhihao Zhao, Xiaoyan Zhu, Minlie Huang, [[pdf]](https://aclanthology.org/2020.tacl-1.7.pdf)`tacl 1 Jan 2020`
+
+ #### RNN
+ 
+ 1. RECURRENTGPT:Interactive Generation of (Arbitrarily) Long Text.Wangchunshu Zhou, Yuchen Eleanor Jiang, Peng Cui Tiannan Wang, Zhenxin Xiao, Yifan Hou, Ryan Cotterell, Mrinmaya Sachan, ETH Zürich, [[pdf]](https://arxiv.org/pdf/2305.13304.pdf)`arxiv 22 May 2023`
+  
+ #### Transformer
+ 
+ 1. Text Generation from Knowledge Graphs with Graph Transformers.Rik Koncel-Kedziorski, Dhanush Bekal, Yi Luan, Mirella Lapata, and Hannaneh Hajishirzi, [[pdf]](https://aclanthology.org/N19-1238.pdf)`acl 1 Apr 2019`
+ 2. LongT5 Efficient Text-To-Text Transformer for Long Sequences.Mandy Guo, Joshua Ainslie, David Uthus, Santiago Ontañón, Jianmo Ni, Yun-Hsuan Sung, Yinfei Yang, [[pdf]](https://arxiv.org/pdf/2112.07916.pdf)`arxiv 3 May 2022`
+ 3. DISCODVT: Generating Long Text with Discourse-Aware Discrete Variational Transformer.Haozhe Ji, Minlie Huang, [[pdf]](https://aclanthology.org/2021.emnlp-main.347.pdf)`acl 12 Oct 2021`
+
+ #### LSTM
+ 
+ 1. Research on Text Generation Based on LSTM.Lifen Li, Tianyu Zhang, [[pdf]](http://www.icj-e.org/download/ICJE-7-5-525-535.pdf)`International Core Journal of Engineering Volume 7 Issue 5, 2021`
+
+  ### C.5 Adversarial Training
+  
+  1. Long Text Generation via Adversarial Training with Leaked Information.Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang, Yong Yu, Jun Wang, [[pdf]](https://arxiv.org/pdf/1709.08624.pdf)`arxiv 8 Dec 2017`
+  2. Improving Adversarial Text Generation by Modeling the Distant Future.Ruiyi Zhang, Changyou Chen, Zhe Gan, Wenlin Wang, Dinghan Shen, GuoyinWang, Zheng Wen, Lawrence Carin, [[pdf]](https://aclanthology.org/2020.acl-main.227.pdf)`acl 4 May 2020`
+
+  ### C.6 Task-adaptive Tokenization
+  
+  1. Enhancing Long-form Text Generation in Mental Health with Task-adaptive Tokenization.Siyang Liu, Naihao Deng, Sahand Sabour, Yilin Jia, Minlie Huang, Rada Mihalcea, [[pdf]](https://arxiv.org/pdf/2310.05317.pdf)`arxiv 23 Oct 2023`
+
+ ### C.7 Graph-based
+ 
+ 1. Graph-based Multi-hop Reasoning for Long Text Generation.Liang Zhao, Jingjing Xu, Junyang Lin, Yichang Zhang, Hongxia Yang, Xu Sun, [[pdf]](https://arxiv.org/pdf/2009.13282.pdf)`arxiv 28 Sep 2020`
+ 2. Text Generation from Knowledge Graphs with Graph Transformers.Rik Koncel-Kedziorski, Dhanush Bekal, Yi Luan, Mirella Lapata, and Hannaneh Hajishirzi, [[pdf]](https://aclanthology.org/N19-1238.pdf)`acl 1 Apr 2019`
+
+ ### C.8 Active Learning
+ 
+ 1. Active Learning for Natural Language Generation.Yotam Perlitz, Ariel Gera, Michal Shmueli-Scheuer, Dafna Sheinwald, Noam Slonim, Liat Ein-Dor, [[pdf]](https://arxiv.org/pdf/2305.15040.pdf)`arxiv 17 Oct 2023`
+
+ ### C.9 Model Criticism
+ 
+ 1. Model Criticism for Long-Form Text Generation.Yuntian Deng, Volodymyr Kuleshov, Alexander M. Rush, [[pdf]](https://aclanthology.org/2022.emnlp-main.815.pdf)`acl 16 Oct 2022`
+
+ ### C.10 Dynamic Planning
+ 
+ 1.DYPLOC: Dynamic Planning of Content Using Mixed Language Models for Text Generation.Xinyu Hua, Ashwin Sreevatsa, Lu Wang, [[pdf]](https://aclanthology.org/2021.acl-long.501.pdf)`acl 1 Jun 2021`
 
   
-
 
 
 
