@@ -9,6 +9,7 @@ Long Form NLG Generation  Based on Large Language Models
   ### _A.1 Long Form Open Domain Dialogue_
 
   1. MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation. _Junru Lu, Siyu An, Mingbao Lin, Gabriele Pergola, Yulan He, Di Yin, Xing Sun, Yunsheng Wu._ [\[pdf\]](https://arxiv.org/pdf/2308.08239.pdf). `Arxiv Aug 16, 2023`.
+  2. Prompted LLMs as Chatbot Modules for Long Open-domain Conversation. _Gibbeum Lee，Volker Hartmann， Jongho Park，Dimitris Papailiopoulos, Kangwook Lee._ [\[pdf\]](https://aclanthology.org/2023.findings-acl.277.pdf). `Findings of ACL 2023`.
 
   ### _A.2 Long Dialogue Summarization_
 
