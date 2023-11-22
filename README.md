@@ -58,7 +58,7 @@ Long Form NLG Generation  Based on Large Language Models
 
   1. A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions.Junchao Wu, Shu Yang, Runzhe Zhan, Yulin Yuan, Derek F. Wong Senior Member, IEEE and Lidia S. Chao Member, IEEE. [[pdf]](https://arxiv.org/pdf/2310.14724.pdf) `Arxiv Oct 24, 2023`
 
-  ### C.3 LongForm
+  ### C.3 Instruction Tuning
 
   1. LongForm: Optimizing Instruction Tuning for Long Text Generation with Corpus Extraction.Abdullatif Köksal, Timo Schick, Anna Korhonen, Hinrich Schütze [[pdf]](https://arxiv.org/abs/2304.08460) `arxiv *17 Apr 2023*`
 
