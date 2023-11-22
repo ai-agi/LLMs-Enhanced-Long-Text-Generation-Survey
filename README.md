@@ -75,7 +75,7 @@ Long Form NLG Generation  Based on Large Language Models
   2. A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation.Jian Guan, Fei Huang, Zhihao Zhao, Xiaoyan Zhu, Minlie Huang, [[pdf]](https://aclanthology.org/2020.tacl-1.7.pdf)`tacl 1 Jan 2020`
   3. DIALOGLM: Pre-trained Model for Long Dialogue Understanding and Summarization.Ming Zhong, Yang Liu, Yichong Xu, Chenguang Zhu, Michael Zeng, [[pdf]](https://arxiv.org/pdf/2109.02492.pdf)`Arxiv 6 Jan 2022`
 
- #### RNN
+ #### Combination of RNN and Transformer
  
  1. RECURRENTGPT:Interactive Generation of (Arbitrarily) Long Text.Wangchunshu Zhou, Yuchen Eleanor Jiang, Peng Cui Tiannan Wang, Zhenxin Xiao, Yifan Hou, Ryan Cotterell, Mrinmaya Sachan, ETH Zürich, [[pdf]](https://arxiv.org/pdf/2305.13304.pdf)`arxiv 22 May 2023`
   
@@ -85,7 +85,7 @@ Long Form NLG Generation  Based on Large Language Models
  2. LongT5 Efficient Text-To-Text Transformer for Long Sequences.Mandy Guo, Joshua Ainslie, David Uthus, Santiago Ontañón, Jianmo Ni, Yun-Hsuan Sung, Yinfei Yang, [[pdf]](https://arxiv.org/pdf/2112.07916.pdf)`arxiv 3 May 2022`
  3. DISCODVT: Generating Long Text with Discourse-Aware Discrete Variational Transformer.Haozhe Ji, Minlie Huang, [[pdf]](https://aclanthology.org/2021.emnlp-main.347.pdf)`acl 12 Oct 2021`
 
- #### LSTM
+ #### RNN（LSTM）
  
  1. Research on Text Generation Based on LSTM.Lifen Li, Tianyu Zhang, [[pdf]](http://www.icj-e.org/download/ICJE-7-5-525-535.pdf)`International Core Journal of Engineering Volume 7 Issue 5, 2021`
 
