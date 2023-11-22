@@ -1,4 +1,4 @@
-![image](https://github.com/ai-agi/LLMs-Enhanced-Long-Text-Generation-Survey/assets/149247430/f467b770-41af-4f82-8903-b0eb6030f0ef)![image](https://github.com/ai-agi/LLMs-Enhanced-Long-Text-Generation-Survey/assets/149247430/298f2bc4-88fd-43f2-9474-85b4cefdff85)# LLMs-Enhanced-Long-Text-Generation-Survey
+# LLMs-Enhanced-Long-Text-Generation-Survey
 
 Long Form NLG Generation  Based on Large Language Models
 
