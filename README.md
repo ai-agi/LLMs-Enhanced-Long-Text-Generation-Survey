@@ -1,4 +1,4 @@
-# LLMs-Enhanced-Long-Text-Generation-Survey
+![image](https://github.com/ai-agi/LLMs-Enhanced-Long-Text-Generation-Survey/assets/149247430/f467b770-41af-4f82-8903-b0eb6030f0ef)![image](https://github.com/ai-agi/LLMs-Enhanced-Long-Text-Generation-Survey/assets/149247430/298f2bc4-88fd-43f2-9474-85b4cefdff85)# LLMs-Enhanced-Long-Text-Generation-Survey
 
 Long Form NLG Generation  Based on Large Language Models
 
@@ -13,11 +13,20 @@ Long Form NLG Generation  Based on Large Language Models
 
   ### _A.2 Long Dialogue Summarization_
 
+  1. An Exploratory Study on Long Dialogue Summarization: What Works and What’s Next.Yusen Zhang, Ansong Ni, Tao Yu, Rui Zhang, Chenguang Zhu, Budhaditya Deb, Asli Celikyilmaz, Ahmed Hassan Awadallah, Dragomir Radev, [[pdf]](https://arxiv.org/pdf/2109.04609.pdf)`arxiv 10 Sep 2021`
+  2. Improving Long Dialogue Summarization with Semantic Graph Representation.Yilun Hua, Zhaoyuan Deng, Kathleen McKeown, [[pdf]](https://pdfs.semanticscholar.org/4f75/d77de71d6c61cc2f732849a02cf4ff2f3282.pdf)`acl July 9-14 2023`
+  3. DIALOGLM: Pre-trained Model for Long Dialogue Understanding and Summarization.Ming Zhong, Yang Liu, Yichong Xu, Chenguang Zhu, Michael Zeng, [[pdf]](https://arxiv.org/pdf/2109.02492.pdf)`Arxiv 6 Jan 2022`
+  4. Negative Guided Abstractive Dialogue Summarization.Junpeng Liu, Yanyan Zou, Yuxuan Xi, Shengjie Li, Mian Ma, Zhuoye Ding, Bo Long, [[pdf]](https://www.isca-speech.org/archive/pdfs/interspeech_2022/liu22r_interspeech.pdf)`Interspeech 18-22 Sept 2022`
+  5. Improving Abstractive Dialogue Summarization with Graph Structures and Topic Words.Lulu Zhao, Weiran Xu, Jun Guo, [[pdf]](https://aclanthology.org/2020.coling-main.39/)`ICCL Dec 8-13 2020`
 
 
   ### _A.3 Long Document Summarization_
-
-
+  
+  1. Two-Stage Movie Script Summarization: An Efficient Method For Low-Resource Long Document Summarization.Dongqi Pu, Xudong Hong, Pin-Jie Lin, Ernie Chang, Vera Demberg, [[pdf]](https://aclanthology.org/2022.creativesumm-1.9.pdf).`acl July 2020`
+  2. Efficient Attentions for Long Document Summarization.Luyang Huang, Shuyang Cao, Nikolaus Parulian, Heng Ji, Lu Wang, [[pdf]](https://aclanthology.org/2021.naacl-main.112.pdf)`naacl June 6-11 2021`
+  3. HEGEL: Hypergraph Transformer for Long Document Summarization.Haopeng Zhang, Xiao Liu, Jiawei Zhang, [[pdf]](https://aclanthology.org/2022.emnlp-main.692.pdf)`NLP Dec 7-11 2022`
+  4. Long Document Summarization with Top-down and Bottom-up Inference.Bo Pang, Erik Nijkamp, Wojciech Kryscinski, Silvio Savarese, Yingbo Zhou, Caiming Xiong, [[pdf]](https://aclanthology.org/2023.findings-eacl.94.pdf)`eacl May 2-6 2023`
+  5. Globalizing BERT-based Transformer Architectures for Long Document.Quentin Grail, Julien Perez, [[pdf]](https://aclanthology.org/2021.eacl-main.154/)`eacl April 19-23 2021`
 
   ### _A.4 Long-Form Narrative Text_
  
@@ -64,6 +73,7 @@ Long Form NLG Generation  Based on Large Language Models
  
   1. Progressive Generation of Long Text with Pretrained Language Models.Bowen Tan, Zichao Yang, Maruan Al-Shedivat, Eric P. Xing, Zhiting Hu, [[pdf]](https://aclanthology.org/2021.naacl-main.341.pdf)`naacl 11 Jun 2021`
   2. A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation.Jian Guan, Fei Huang, Zhihao Zhao, Xiaoyan Zhu, Minlie Huang, [[pdf]](https://aclanthology.org/2020.tacl-1.7.pdf)`tacl 1 Jan 2020`
+  3. DIALOGLM: Pre-trained Model for Long Dialogue Understanding and Summarization.Ming Zhong, Yang Liu, Yichong Xu, Chenguang Zhu, Michael Zeng, [[pdf]](https://arxiv.org/pdf/2109.02492.pdf)`Arxiv 6 Jan 2022`
 
  #### RNN
  
