@@ -51,7 +51,7 @@ Long Form NLG Generation  Based on Large Language Models
 
   ### C.1 Data Augmentation
 
-  1. Data augmentation in natural language processing: a novel text generation approach for long and short text classifers.Markus Bayer, Marc‑André Kaufhold, Björn Buchhold, Marcel Keller3, Jörg Dallmeyer, Christian Reuter.[[pdf]](https://link.springer.com/content/pdf/10.1007/s13042-022-01553-3.pdf?pdf=button) `International Journal of Machine Learning and Cybernetics (2023)`.
+  1. Data augmentation in natural language processing: a novel text generation approach for long and short text classifers.Markus Bayer, Marc‑André Kaufhold, Björn Buchhold, Marcel Keller, Jörg Dallmeyer and Christian Reuter.[[pdf]](https://link.springer.com/content/pdf/10.1007/s13042-022-01553-3.pdf?pdf=button) `International Journal of Machine Learning and Cybernetics (2023)`.
   2. Augmented Language Models: a Survey  Grégoire Mialon， Roberto Dessì， Maria Lomel [pdf](https://arxiv.org/pdf/2302.07842.pdf) `Arxiv Feb 15 2023`
 
   ### C.2 Detector
