@@ -129,7 +129,7 @@ Mohammad Kalim Akram, Susana Guzman, Georgios Mastrapas, Saba Sturua, Bo Wang, M
 
  ### D.6 CNN
  
- 1. A Hybrid Convolutional Variational Autoencoder for Text Generation.Stanislau Semeniuta, Aliaksei Severyn, Erhardt Barth, [[pdf]](https://aclanthology.org/D17-1066.pdf)`NLP Sept 7-11 2017`
+ 1. A Hybrid Convolutional Variational Autoencoder for Text Generation.Stanislau Semeniuta, Aliaksei Severyn and Erhardt Barth.[[pdf]](https://aclanthology.org/D17-1066.pdf)`EMNLP 2017`.
 
 
 
