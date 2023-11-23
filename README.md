@@ -23,7 +23,7 @@ Long Form NLG Generation  Based on Large Language Models
   ### _A.3 Long Document Summarization_
   
   1. Two-Stage Movie Script Summarization: An Efficient Method For Low-Resource Long Document Summarization.Dongqi Pu, Xudong Hong, Pin-Jie Lin, Ernie Chang, Vera Demberg, [[pdf]](https://aclanthology.org/2022.creativesumm-1.9.pdf).`ACL July 2020`
-  2. Efficient Attentions for Long Document Summarization.Luyang Huang, Shuyang Cao, Nikolaus Parulian, Heng Ji, Lu Wang, [[pdf]](https://aclanthology.org/2021.naacl-main.112.pdf)`naacl June 6-11 2021`
+  2. Efficient Attentions for Long Document Summarization.Luyang Huang, Shuyang Cao, Nikolaus Parulian, Heng Ji, Lu Wang, [[pdf]](https://aclanthology.org/2021.naacl-main.112.pdf)`NAACL June 6-11 2021`.
   3. HEGEL: Hypergraph Transformer for Long Document Summarization.Haopeng Zhang, Xiao Liu, Jiawei Zhang, [[pdf]](https://aclanthology.org/2022.emnlp-main.692.pdf)`NLP Dec 7-11 2022`
   4. Long Document Summarization with Top-down and Bottom-up Inference.Bo Pang, Erik Nijkamp, Wojciech Kryscinski, Silvio Savarese, Yingbo Zhou, Caiming Xiong, [[pdf]](https://aclanthology.org/2023.findings-eacl.94.pdf)`EACL May 2-6 2023`
   5. Globalizing BERT-based Transformer Architectures for Long Document.Quentin Grail, Julien Perez, [[pdf]](https://aclanthology.org/2021.eacl-main.154/)`EACL April 19-23 2021`
