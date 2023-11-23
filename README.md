@@ -91,7 +91,7 @@ Long Form NLG Generation  Based on Large Language Models
 
  ### C.10 Text Embedding for Long Input Tokens
   1. Jina Embeddings 2: 8192-Token General-Purpose Text Embeddings for Long Documents.Michael Günther, Jackmin Ong, Isabelle Mohr, Alaeddine Abdessalem, Tanguy Abel,
-Mohammad Kalim Akram, Susana Guzman, Georgios Mastrapas, Saba Sturua, Bo Wang, Maximilian Werk, Nan Wang, Han Xiao.[[pdf]](https://arxiv.org/pdf/2310.19923.pdf)`ArXiv *30 Oct 2023*`
+Mohammad Kalim Akram, Susana Guzman, Georgios Mastrapas, Saba Sturua, Bo Wang, Maximilian Werk, Nan Wang, Han Xiao.[[pdf]](https://arxiv.org/pdf/2310.19923.pdf)`ArXiv 30 Oct 2023`.
 
  ### C.11 Diffusion
  
