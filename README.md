@@ -133,12 +133,10 @@ Mohammad Kalim Akram, Susana Guzman, Georgios Mastrapas, Saba Sturua, Bo Wang, M
 
 
 # Project Maintainers & Contributors
-* Junwen Zhang
-* Yuanhao Lou
-* Shuang Chen
+* Junwen Zhang ([Fendi](https://github.com/ai-agi))
+* Yuanhao Lou (@https://github.com/zju22)
+* Shuang Chen (@)
+
 # Contact 
-* Junwen Zhang:junwenzhang@zju.edu.cn
-
-
-
+* Junwen Zhang:  junwenzhang@zju.edu.cn
 
