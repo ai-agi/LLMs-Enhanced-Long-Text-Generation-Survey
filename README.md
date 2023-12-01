@@ -132,6 +132,12 @@ Mohammad Kalim Akram, Susana Guzman, Georgios Mastrapas, Saba Sturua, Bo Wang, M
  1. A Hybrid Convolutional Variational Autoencoder for Text Generation.Stanislau Semeniuta, Aliaksei Severyn and Erhardt Barth.[[pdf]](https://aclanthology.org/D17-1066.pdf)`EMNLP 2017`.
 
 
+# Project Maintainers & Contributors
+* Junwen Zhang
+* Yuanhao Lou
+* Shuang Chen
+# Contact 
+* Junwen Zhang:junwenzhang@zju.edu.cn
 
 
 
