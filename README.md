@@ -129,10 +129,13 @@ Mohammad Kalim Akram, Susana Guzman, Georgios Mastrapas, Saba Sturua, Bo Wang, M
 
  ### D.6 CNN
  
- 1. A Hybrid Convolutional Variational Autoencoder for Text Generation.Stanislau Semeniuta, Aliaksei Severyn and Erhardt Barth.[[pdf]](https://aclanthology.org/D17-1066.pdf)`EMNLP 2017`.
+ 1. A Hybrid Convolutional Variational Autoencoder for Text Generation. _Stanislau Semeniuta, Aliaksei Severyn and Erhardt Barth_. [[pdf]](https://aclanthology.org/D17-1066.pdf). `EMNLP 2017`.
 
-## E. Long Text Generation Evaluation Methods and Metrics
- 1. FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation.Sewon Min, Kalpesh Krishna, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang Wei Koh, Mohit Iyyer, Luke Zettlemoyer and Hannaneh Hajishirzi, [\[pdf\]](https://arxiv.org/pdf/2305.14251.pdf) [\[code\]](https://github.com/shmsw25/FActScore)`EMNLP 2023`.
+## E. Reading Papers
+1. Long Text Generation Challenge. _Nikolay Mikhaylovskiy_. [\[pdf\]](https://arxiv.org/pdf/2306.02334.pdf).`arXiv 4 June 2023`.
+
+## F. Long Text Generation Evaluation Methods and Metrics
+ 1. FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation. _Sewon Min, Kalpesh Krishna, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang Wei Koh, Mohit Iyyer, Luke Zettlemoyer and Hannaneh Hajishirzi_. [\[pdf\]](https://arxiv.org/pdf/2305.14251.pdf). [\[code\]](https://github.com/shmsw25/FActScore). `EMNLP 2023`.
 
 # Project Maintainers & Contributors
 * Junwen Zhang ([@Fendi](https://github.com/ai-agi))
