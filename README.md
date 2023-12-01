@@ -95,7 +95,7 @@ Mohammad Kalim Akram, Susana Guzman, Georgios Mastrapas, Saba Sturua, Bo Wang, M
 
  ### C.11 Diffusion
  
-  1. AR-DIFFUSION: Auto-Regressive Diffusion Model for Text Generation.Tong Wu, Zhihao Fan, Xiao Liu, Yeyun Gong, Yelong Shen, Jian Jiao, Hai-Tao Zheng, Juntao Li, Zhongyu Wei, Jian Guo, Nan Duan and Weizhu Chen.[\[pdf\]](https://arxiv.org/pdf/2305.09515.pdf)`NeurIPS 2023`.
+  1. AR-DIFFUSION: Auto-Regressive Diffusion Model for Text Generation. _Tong Wu, Zhihao Fan, Xiao Liu, Yeyun Gong, Yelong Shen, Jian Jiao, Hai-Tao Zheng, Juntao Li, Zhongyu Wei, Jian Guo, Nan Duan and Weizhu Chen_. [\[pdf\]](https://arxiv.org/pdf/2305.09515.pdf). `NeurIPS 2023`.
  
   ## D. Model Perspective
 
