@@ -8,8 +8,8 @@ Long Form NLG Generation  Based on Large Language Models
 
   ### _A.1 Long Form Open Domain Dialogue_
 
-  1. MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation. _Junru Lu, Siyu An, Mingbao Lin, Gabriele Pergola, Yulan He, Di Yin, Xing Sun, Yunsheng Wu._ [\[pdf\]](https://arxiv.org/pdf/2308.08239.pdf). `Arxiv Aug 16, 2023`.
-  2. Prompted LLMs as Chatbot Modules for Long Open-domain Conversation. _Gibbeum Lee，Volker Hartmann， Jongho Park，Dimitris Papailiopoulos, Kangwook Lee._ [\[pdf\]](https://aclanthology.org/2023.findings-acl.277.pdf). `Findings of ACL 2023`.
+  1. MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation. _Junru Lu, Siyu An, Mingbao Lin, Gabriele Pergola, Yulan He, Di Yin, Xing Sun and Yunsheng Wu._ [\[pdf\]](https://arxiv.org/pdf/2308.08239.pdf). `arXiv Aug 16, 2023`.
+  2. Prompted LLMs as Chatbot Modules for Long Open-domain Conversation. _Gibbeum Lee，Volker Hartmann， Jongho Park，Dimitris Papailiopoulos and Kangwook Lee._ [\[pdf\]](https://aclanthology.org/2023.findings-acl.277.pdf). `Findings of ACL 2023`.
 
   ### _A.2 Long Dialogue Summarization_
 
@@ -87,7 +87,7 @@ Long Form NLG Generation  Based on Large Language Models
 
  ### C.9 Dynamic Planning
  
- 1.DYPLOC: Dynamic Planning of Content Using Mixed Language Models for Text Generation.Xinyu Hua, Ashwin Sreevatsa, Lu Wang, [\[pdf\]](https://aclanthology.org/2021.acl-long.501.pdf)`ACL 1 Jun 2021`.
+ 1.DYPLOC: Dynamic Planning of Content Using Mixed Language Models for Text Generation. _Xinyu Hua, Ashwin Sreevatsa and Lu Wang_. [\[pdf\]](https://aclanthology.org/2021.acl-long.501.pdf). `ACL 2021`.
 
  ### C.10 Text Embedding for Long Input Tokens
   1. Jina Embeddings 2: 8192-Token General-Purpose Text Embeddings for Long Documents.Michael Günther, Jackmin Ong, Isabelle Mohr, Alaeddine Abdessalem, Tanguy Abel,
@@ -101,7 +101,7 @@ Mohammad Kalim Akram, Susana Guzman, Georgios Mastrapas, Saba Sturua, Bo Wang, M
 
    ### D.1 Language Models
  
-  1. A Survey of Large Language Models.Wayne Xin Zhao, Kun Zhou, Junyi Li,  [\[pdf\]](https://arxiv.org/abs/2303.18223) `Arxiv *31 Mar 2023*`.
+  1. A Survey of Large Language Models. _Wayne Xin Zhao, Kun Zhou and Junyi Li_. [\[pdf\]](https://arxiv.org/abs/2303.18223). `arXiv 31 Mar, 2023`.
   2. Long and Diverse Text Generation with Planning-based Hierarchical Variational Model.Zhihong Shao, Minlie Huang, Jiangtao Wen, Wenfei Xu, Xiaoyan Zhu,  [\[pdf\]](https://arxiv.org/pdf/1908.06605.pdf)`Arxiv *25 Aug 2019*`.
   3. Long Text Generation by Modeling Sentence-Level and Discourse-Level Coherence.Jian Guan, Xiaoxi Mao, Changjie Fan, Zitao Liu, Wenbiao Ding, and Minlie Huang, [\[pdf\]](https://arxiv.org/pdf/2105.08963.pdf)`Arxiv 19 May 2021`.
   4. Coherent Long Text Generation by Contrastive Soft Prompt.Guandan Chen, Jiashu Pu, Yadong Xi, Rongsheng Zhang, [\[pdf\]](https://aclanthology.org/2022.gem-1.42.pdf)`ACL 7 Dec 2022`.
