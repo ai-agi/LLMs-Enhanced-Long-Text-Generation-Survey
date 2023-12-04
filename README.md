@@ -42,6 +42,10 @@ Long Form NLG Generation  Based on Large Language Models
   
  1. Towards coherent and cohesive long-form text generation.Woon Sang Cho, Pengchuan Zhang, Yizhe Zhang, Xiujun Li, Michel Galley, Chris Brockett, Mengdi Wang, Jianfeng Gao, [\[pdf\]](https://aclanthology.org/W19-2401.pdf)`ACL 1 Nov 2018`
 
+  ### _A.7 Steganography_
+
+  1. Generative Steganography Based on Long Readable Text Generation. _Yi Cao, Zhili Zhou, Chinmay Chakraborty, Meimin Wang, Q.M.Jonathan Wu, Xingming Sun and Keping Yu_.[\[pdf]\](https://ieeexplore.ieee.org/document/9778236?denied=)`IEEE 19 May 2022`
+
   ## B. Constraints Perspective
 
   1. Fixed global memory for controllable long text generation. _Zheng Chen, Zhejun Liu._ [\[pdf\]](https://dl.acm.org/doi/abs/10.1007/s10489-022-04197-6). `Applied Intelligence, 2022`.
@@ -76,6 +80,7 @@ Long Form NLG Generation  Based on Large Language Models
  
  1. Graph-based Multi-hop Reasoning for Long Text Generation.Liang Zhao, Jingjing Xu, Junyang Lin, Yichang Zhang, Hongxia Yang, Xu Sun, [\[pdf\]](https://arxiv.org/pdf/2009.13282.pdf)`Arxiv 28 Sep 2020`.
  2. Text Generation from Knowledge Graphs with Graph Transformers.Rik Koncel-Kedziorski, Dhanush Bekal, Yi Luan, Mirella Lapata, and Hannaneh Hajishirzi, [\[pdf\]](https://aclanthology.org/N19-1238.pdf)`ACL 1 Apr 2019`.
+ 3. GGP: A Graph-based Grouping Planner for Explicit Control of Long Text Generation. _Xuming Lin, Shaobo Cui, Zhongzhou Zhao, Wei Zhou, Ji Zhang and Haiqing Chen_.[\[pdf]\](https://dl.acm.org/doi/10.1145/3459637.3482111)`ACM Oct 2021`
 
  ### C.7 Active Learning
  
@@ -85,9 +90,11 @@ Long Form NLG Generation  Based on Large Language Models
  
  1. Model Criticism for Long-Form Text Generation.Yuntian Deng, Volodymyr Kuleshov, Alexander M. Rush, [\[pdf\]](https://aclanthology.org/2022.emnlp-main.815.pdf)`ACL 16 Oct 2022`.
 
- ### C.9 Dynamic Planning
+ ### C.9 Planning
  
- 1.DYPLOC: Dynamic Planning of Content Using Mixed Language Models for Text Generation. _Xinyu Hua, Ashwin Sreevatsa and Lu Wang_. [\[pdf\]](https://aclanthology.org/2021.acl-long.501.pdf). `ACL 2021`.
+ 1. DYPLOC: Dynamic Planning of Content Using Mixed Language Models for Text Generation. _Xinyu Hua, Ashwin Sreevatsa and Lu Wang_. [\[pdf\]](https://aclanthology.org/2021.acl-long.501.pdf). `ACL 2021`.
+ 2. Improving Text Generation via Neural Discourse Planning._Alexander Chernyavskiy_.[\[pdf]\](https://dl.acm.org/doi/10.1145/3488560.3502214)`ACM Feb 2022`
+ 3. Knowledge-based Review Generation by Coherence Enhanced Text Planning._Junyi Li, Wayne Xin Zhao, Zhicheng Wei, Nicholas Jing Yuan and Ji-Rong Wen_.[\[pdf]\](https://dl.acm.org/doi/10.1145/3404835.3462865)`ACM July 2021`
 
  ### C.10 Text Embedding for Long Input Tokens
   1. Jina Embeddings 2: 8192-Token General-Purpose Text Embeddings for Long Documents.Michael Günther, Jackmin Ong, Isabelle Mohr, Alaeddine Abdessalem, Tanguy Abel,
