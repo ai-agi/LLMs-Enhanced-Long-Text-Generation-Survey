@@ -46,6 +46,23 @@ Long Form NLG Generation  Based on Large Language Models
 
   1. Generative Steganography Based on Long Readable Text Generation. _Yi Cao, Zhili Zhou, Chinmay Chakraborty, Meimin Wang, Q.M.Jonathan Wu, Xingming Sun and Keping Yu_.[\[pdf]\](https://ieeexplore.ieee.org/document/9778236?denied=)`IEEE 19 May 2022`
 
+  ### _A.8 Table-to-Text_
+  
+  1. Two-Level Model for Table-to-Text Generation._Juan Cao, Junpeng Gong and Pengzhou Zhang_.[\[pdf\]](https://dl.acm.org/doi/10.1145/3364908.3365287)`ACM Sept 2019`
+  2. Three-stage Logical Table-to-Text Generation based on Type Control._Weiwei Shi, Yubo Liu, Jie Wu and Jianming Liao_.[\[pdf\]](https://dl.acm.org/doi/10.1145/3579654.3579667)`ACM Dec 2022`
+
+  ### _A.9 Patent_
+  
+  1. Controlling Patent Text Generation by Structural Metadata._Jieh-Sheng Lee_.[\[pdf\]](https://dl.acm.org/doi/10.1145/3340531.3418503)`ACM Oct 2020`
+
+  ### _A.10 Multilingual abstract_
+  
+  1. XWikiGen: Cross-lingual Summarization for Encyclopedic Text Generation in Low Resource Languages._Dhaval Taunk, Shivprasad Sagare, Anupam Patil, Shivansh Subramanian and Manish Gupta_.[\[pdf\]](https://dl.acm.org/doi/10.1145/3543507.3583405)`ACM Apr 2023`
+
+  ### _A.11 Persuasive Text_
+  
+  1. PersuAIDE! An Adaptive Persuasive Text Generation System for Fashion Domain._Vitobha Munigala, Abhijit Mishra, Srikanth G. Tamilselvam, Shreya Khare, Riddhiman Dasgupta and Anush Sankaran_.[\[pdf\]](https://dl.acm.org/doi/10.1145/3184558.3186345)`ACM Apr 2018`
+
   ## B. Constraints Perspective
 
   1. Fixed global memory for controllable long text generation. _Zheng Chen, Zhejun Liu._ [\[pdf\]](https://dl.acm.org/doi/abs/10.1007/s10489-022-04197-6). `Applied Intelligence, 2022`.
@@ -69,8 +86,9 @@ Long Form NLG Generation  Based on Large Language Models
 
   ### C.4 Adversarial Training
   
-  1. Long Text Generation via Adversarial Training with Leaked Information.Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang, Yong Yu, Jun Wang, [[pdf]](https://arxiv.org/pdf/1709.08624.pdf)`Arxiv 8 Dec 2017`.
+  1. Long Text Generation via Adversarial Training with Leaked Information.Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang, Yong Yu, Jun Wang, [\[pdf\]](https://arxiv.org/pdf/1709.08624.pdf)`Arxiv 8 Dec 2017`.
   2. Improving Adversarial Text Generation by Modeling the Distant Future.Ruiyi Zhang, Changyou Chen, Zhe Gan, Wenlin Wang, Dinghan Shen, GuoyinWang, Zheng Wen, Lawrence Carin, [\[pdf\]](https://aclanthology.org/2020.acl-main.227.pdf)`ACL 4 May 2020`.
+  3. Diversity regularized autoencoders for text generation._Hyeseon Ko, Junhyuk Lee, Jinhong Kim, Jongwuk Lee and Hyunjung Shim_.[\[pdf\]](https://dl.acm.org/doi/10.1145/3341105.3373998)`ACM Mar 2020`
 
   ### C.5 Task-adaptive Tokenization
   
@@ -80,7 +98,7 @@ Long Form NLG Generation  Based on Large Language Models
  
  1. Graph-based Multi-hop Reasoning for Long Text Generation.Liang Zhao, Jingjing Xu, Junyang Lin, Yichang Zhang, Hongxia Yang, Xu Sun, [\[pdf\]](https://arxiv.org/pdf/2009.13282.pdf)`Arxiv 28 Sep 2020`.
  2. Text Generation from Knowledge Graphs with Graph Transformers.Rik Koncel-Kedziorski, Dhanush Bekal, Yi Luan, Mirella Lapata, and Hannaneh Hajishirzi, [\[pdf\]](https://aclanthology.org/N19-1238.pdf)`ACL 1 Apr 2019`.
- 3. GGP: A Graph-based Grouping Planner for Explicit Control of Long Text Generation. _Xuming Lin, Shaobo Cui, Zhongzhou Zhao, Wei Zhou, Ji Zhang and Haiqing Chen_.[\[pdf]\](https://dl.acm.org/doi/10.1145/3459637.3482111)`ACM Oct 2021`
+ 3. GGP: A Graph-based Grouping Planner for Explicit Control of Long Text Generation. _Xuming Lin, Shaobo Cui, Zhongzhou Zhao, Wei Zhou, Ji Zhang and Haiqing Chen_.[\[pdf\]](https://dl.acm.org/doi/10.1145/3459637.3482111)`ACM Oct 2021`
 
  ### C.7 Active Learning
  
@@ -93,8 +111,8 @@ Long Form NLG Generation  Based on Large Language Models
  ### C.9 Planning
  
  1. DYPLOC: Dynamic Planning of Content Using Mixed Language Models for Text Generation. _Xinyu Hua, Ashwin Sreevatsa and Lu Wang_. [\[pdf\]](https://aclanthology.org/2021.acl-long.501.pdf). `ACL 2021`.
- 2. Improving Text Generation via Neural Discourse Planning._Alexander Chernyavskiy_.[\[pdf]\](https://dl.acm.org/doi/10.1145/3488560.3502214)`ACM Feb 2022`
- 3. Knowledge-based Review Generation by Coherence Enhanced Text Planning._Junyi Li, Wayne Xin Zhao, Zhicheng Wei, Nicholas Jing Yuan and Ji-Rong Wen_.[\[pdf]\](https://dl.acm.org/doi/10.1145/3404835.3462865)`ACM July 2021`
+ 2. Improving Text Generation via Neural Discourse Planning._Alexander Chernyavskiy_.[\[pdf\]](https://dl.acm.org/doi/10.1145/3488560.3502214)`ACM Feb 2022`
+ 3. Knowledge-based Review Generation by Coherence Enhanced Text Planning._Junyi Li, Wayne Xin Zhao, Zhicheng Wei, Nicholas Jing Yuan and Ji-Rong Wen_.[\[pdf\]](https://dl.acm.org/doi/10.1145/3404835.3462865)`ACM July 2021`
 
  ### C.10 Text Embedding for Long Input Tokens
   1. Jina Embeddings 2: 8192-Token General-Purpose Text Embeddings for Long Documents.Michael Günther, Jackmin Ong, Isabelle Mohr, Alaeddine Abdessalem, Tanguy Abel,
@@ -131,12 +149,12 @@ Mohammad Kalim Akram, Susana Guzman, Georgios Mastrapas, Saba Sturua, Bo Wang, M
 
  ### D.5 RNN (LSTM)
  
- 1. Research on Text Generation Based on LSTM.Lifen Li, Tianyu Zhang, [[pdf]](http://www.icj-e.org/download/ICJE-7-5-525-535.pdf)`International Core Journal of Engineering Volume 7 Issue 5, 2021`.
+ 1. Research on Text Generation Based on LSTM.Lifen Li, Tianyu Zhang, [\[pdf\]](http://www.icj-e.org/download/ICJE-7-5-525-535.pdf)`International Core Journal of Engineering Volume 7 Issue 5, 2021`.
  2. A method of automatic text summarisation based on long short-term memory.Wei Fang, TianXiao Jiang, Ke Jiang, Feihong Zhang, Yewen Ding and Jack Sheng, [\[pdf\]](https://www.inderscienceonline.com/doi/epdf/10.1504/IJCSE.2020.107243)`International Journal of Computational Science and Engineering 4 May 2020`.
 
  ### D.6 CNN
  
- 1. A Hybrid Convolutional Variational Autoencoder for Text Generation. _Stanislau Semeniuta, Aliaksei Severyn and Erhardt Barth_. [[pdf]](https://aclanthology.org/D17-1066.pdf). `EMNLP 2017`.
+ 1. A Hybrid Convolutional Variational Autoencoder for Text Generation. _Stanislau Semeniuta, Aliaksei Severyn and Erhardt Barth_. [\[pdf\]](https://aclanthology.org/D17-1066.pdf). `EMNLP 2017`.
 
 ## E. Reading Papers
 1. Long Text Generation Challenge. _Nikolay Mikhaylovskiy_. [\[pdf\]](https://arxiv.org/pdf/2306.02334.pdf).`arXiv 4 June 2023`.
