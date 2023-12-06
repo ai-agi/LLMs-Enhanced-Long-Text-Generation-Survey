@@ -37,6 +37,8 @@ Long Form NLG Generation  Based on Large Language Models
  1. A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation.Jian Guan, Fei Huang, Zhihao Zhao, Xiaoyan Zhu, Minlie Huang, [\[pdf\]](https://aclanthology.org/2020.tacl-1.7.pdf)`TACL 1 Jan 2020`
  2. Open-ended Long Text Generation via Masked Language Modeling.Xiaobo Liang, Zecheng Tang, Juntao Li, Min Zhang, [\[pdf\]](https://aclanthology.org/2023.acl-long.13.pdf)`ACL July 9-14 2023`
  3. Improving Chinese Story Generation via Awareness of Syntactic Dependencies and Semantics.Henglin Huang, Chen Tang, Tyler Loakman, Frank Guerin, Chenghua Lin, [\[pdf\]](https://aclanthology.org/2022.aacl-short.23.pdf)`AACL 19 Oct 2022`
+ 4. NGEP: A Graph-based Event Planning Framework for Story Generation._Chen Tang, Zhihao Zhang, Tyler Loakman, Chenghua Lin and Frank Guerin_.[\[pdf\]](https://aclanthology.org/2022.aacl-short.24.pdf)`ACL 2022`
+ 5. Improving Chinese Story Generation via Awareness of Syntactic Dependencies and Semantics._Henglin Huang, Chen Tang, Tyler Loakman, Frank Guerin1 and Chenghua Lin_.[\[pdf\]](https://aclanthology.org/2022.aacl-short.23.pdf)`ACL 2022`
 
   ### _A.6 Reviews_
   
@@ -58,15 +60,21 @@ Long Form NLG Generation  Based on Large Language Models
   ### _A.10 Multilingual abstract_
   
   1. XWikiGen: Cross-lingual Summarization for Encyclopedic Text Generation in Low Resource Languages._Dhaval Taunk, Shivprasad Sagare, Anupam Patil, Shivansh Subramanian and Manish Gupta_.[\[pdf\]](https://dl.acm.org/doi/10.1145/3543507.3583405)`ACM Apr 2023`
+  2. Long-Document Cross-Lingual Summarization._Shaohui Zheng, Zhixu Li, Jiaan Wang, Jianfeng Qu, An Liu, Lei Zhao and Zhigang Chen_.[\[pdf\]](https://dl.acm.org/doi/10.1145/3539597.3570479)`ACM Feb 2023`
 
   ### _A.11 Persuasive Text_
   
   1. PersuAIDE! An Adaptive Persuasive Text Generation System for Fashion Domain._Vitobha Munigala, Abhijit Mishra, Srikanth G. Tamilselvam, Shreya Khare, Riddhiman Dasgupta and Anush Sankaran_.[\[pdf\]](https://dl.acm.org/doi/10.1145/3184558.3186345)`ACM Apr 2018`
+ 
+  ### _A.12 Hierarchical Topic-to-Essay_
+  
+  1. Transformer-based Hierarchical Topic-to-Essay Generation._Wangbo He and Yuan Rao_.[\[pdf\]](https://www.sciencedirect.com/science/article/pii/S1877050922005920)`ScienceDirect May 2022`
 
   ## B. Constraints Perspective
 
   1. Fixed global memory for controllable long text generation. _Zheng Chen, Zhejun Liu._ [\[pdf\]](https://dl.acm.org/doi/abs/10.1007/s10489-022-04197-6). `Applied Intelligence, 2022`.
   2. Critic-Guided Decoding for Controlled Text Generation.Minbeom Kim, Hwanhee Lee, Kang Min Yoo, Joonsuk Park, Hwaran Lee, Kyomin Jung, [\[pdf\]](https://arxiv.org/pdf/2212.10938.pdf)`Arxiv 21 Dec 2022`
+  3. MDM: Meta diffusion model for hard-constrained text generation._Wenjun Ke, Yikai Guo, Qi Liu, Wanyi Chen, Peng Wang, Haoran Luo and Zhizhao Luo_.[\[pdf\]](https://www.sciencedirect.com/science/article/abs/pii/S0950705123008973)`ScienceDirect Nov 2023`
 
   ## C. Technique Perspective
 
@@ -89,6 +97,8 @@ Long Form NLG Generation  Based on Large Language Models
   1. Long Text Generation via Adversarial Training with Leaked Information.Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang, Yong Yu, Jun Wang, [\[pdf\]](https://arxiv.org/pdf/1709.08624.pdf)`Arxiv 8 Dec 2017`.
   2. Improving Adversarial Text Generation by Modeling the Distant Future.Ruiyi Zhang, Changyou Chen, Zhe Gan, Wenlin Wang, Dinghan Shen, GuoyinWang, Zheng Wen, Lawrence Carin, [\[pdf\]](https://aclanthology.org/2020.acl-main.227.pdf)`ACL 4 May 2020`.
   3. Diversity regularized autoencoders for text generation._Hyeseon Ko, Junhyuk Lee, Jinhong Kim, Jongwuk Lee and Hyunjung Shim_.[\[pdf\]](https://dl.acm.org/doi/10.1145/3341105.3373998)`ACM Mar 2020`
+  4. 融合自注意力机制的长文本生成对抗网络模型._夏鸿斌， 肖奕飞 and 刘渊_.[\[pdf\]](http://fcst.ceaj.org/CN/10.3778/j.issn.1673-9418.2104038)`计算机科学与探索 2022 16(7)`
+  5. Feature-aware conditional GAN for category text generation._Xinze Li, Kezhi Mao, Fanfan Lin and Zijian Feng_.[\[pdf\]](https://www.sciencedirect.com/science/article/abs/pii/S0925231223004757)`ScienceDirect May 2023`
 
   ### C.5 Task-adaptive Tokenization
   
@@ -99,6 +109,7 @@ Long Form NLG Generation  Based on Large Language Models
  1. Graph-based Multi-hop Reasoning for Long Text Generation.Liang Zhao, Jingjing Xu, Junyang Lin, Yichang Zhang, Hongxia Yang, Xu Sun, [\[pdf\]](https://arxiv.org/pdf/2009.13282.pdf)`Arxiv 28 Sep 2020`.
  2. Text Generation from Knowledge Graphs with Graph Transformers.Rik Koncel-Kedziorski, Dhanush Bekal, Yi Luan, Mirella Lapata, and Hannaneh Hajishirzi, [\[pdf\]](https://aclanthology.org/N19-1238.pdf)`ACL 1 Apr 2019`.
  3. GGP: A Graph-based Grouping Planner for Explicit Control of Long Text Generation. _Xuming Lin, Shaobo Cui, Zhongzhou Zhao, Wei Zhou, Ji Zhang and Haiqing Chen_.[\[pdf\]](https://dl.acm.org/doi/10.1145/3459637.3482111)`ACM Oct 2021`
+ 4. NGEP: A Graph-based Event Planning Framework for Story Generation._Chen Tang, Zhihao Zhang, Tyler Loakman, Chenghua Lin and Frank Guerin_.[\[pdf\]](https://aclanthology.org/2022.aacl-short.24.pdf)`ACL 2022`
 
  ### C.7 Active Learning
  
@@ -155,6 +166,10 @@ Mohammad Kalim Akram, Susana Guzman, Georgios Mastrapas, Saba Sturua, Bo Wang, M
  ### D.6 CNN
  
  1. A Hybrid Convolutional Variational Autoencoder for Text Generation. _Stanislau Semeniuta, Aliaksei Severyn and Erhardt Barth_. [\[pdf\]](https://aclanthology.org/D17-1066.pdf). `EMNLP 2017`.
+
+ ### D.7 Different semantic granularity
+ 
+  1. 面向不同语义粒度约束的文本生成方法研究._潘囿丞_[\[pdf\]](https://kns.cnki.net/kcms2/article/abstract?v=TzO8JwpG6uil4nMnfSwaMPP0HMSYaLhlcR7C8aJoic0emFvpbLrPABWYeSDOTLgIWOYT1YqQ3rHTl1bjeFqRcBEJ6Fhae9SHNtqmuT0F0iovkSTbqlwkMz0rAwIDi2VJUwTd_kE97TsN_Y9AI8va69eJG2H6YmMg&uniplatform=NZKPT&language=CHS)`CNKI July 2022`
 
 ## E. Reading Papers
 1. Long Text Generation Challenge. _Nikolay Mikhaylovskiy_. [\[pdf\]](https://arxiv.org/pdf/2306.02334.pdf).`arXiv 4 June 2023`.
