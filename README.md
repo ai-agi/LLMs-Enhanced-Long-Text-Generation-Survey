@@ -99,6 +99,7 @@ Long Form NLG Generation  Based on Large Language Models
   3. Diversity regularized autoencoders for text generation._Hyeseon Ko, Junhyuk Lee, Jinhong Kim, Jongwuk Lee and Hyunjung Shim_.[\[pdf\]](https://dl.acm.org/doi/10.1145/3341105.3373998)`ACM Mar 2020`
   4. 融合自注意力机制的长文本生成对抗网络模型._夏鸿斌， 肖奕飞 and 刘渊_.[\[pdf\]](http://fcst.ceaj.org/CN/10.3778/j.issn.1673-9418.2104038)`计算机科学与探索 2022 16(7)`
   5. Feature-aware conditional GAN for category text generation._Xinze Li, Kezhi Mao, Fanfan Lin and Zijian Feng_.[\[pdf\]](https://www.sciencedirect.com/science/article/abs/pii/S0925231223004757)`ScienceDirect May 2023`
+  6. WordIllusion: An adversarial text generation algorithm based on human cognitive system._Haoran Fu, Chundong Wang, Jiaqi Sun, Yumeng Zhao, Hao Lin, Junqing Sun and Baixue Zhang_.[\[pdf\]](https://www.sciencedirect.com/science/article/abs/pii/S1389041723001134)`ScienceDirect Oct 2023`
 
   ### C.5 Task-adaptive Tokenization
   
