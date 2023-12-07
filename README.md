@@ -28,6 +28,7 @@ Long Form NLG Generation  Based on Large Language Models
   4. Long Document Summarization with Top-down and Bottom-up Inference.Bo Pang, Erik Nijkamp, Wojciech Kryscinski, Silvio Savarese, Yingbo Zhou, Caiming Xiong, [\[pdf\]](https://aclanthology.org/2023.findings-eacl.94.pdf)`EACL May 2-6 2023`
   5. Globalizing BERT-based Transformer Architectures for Long Document.Quentin Grail, Julien Perez, [\[pdf\]](https://aclanthology.org/2021.eacl-main.154/)`EACL April 19-23 2021`
   6. PLSGA：阶段式长文本摘要生成方法._方缙, 李宝安, 游新冬 and 吕学强_.[\[pdf\]](https://kns.cnki.net/kcms2/article/abstract?v=z-q19lQZUWFmmUoqQWhR6VMffqBnwCKFrAciK1CfhSjuK90QS8IY7tkSt1vIfMiMwfmYgJ9pX0mm33l7Fu1IDLK2lZ3ol5-mqAyNmJZXz2iDDemeX05A-btaRGuW1EINVzU_mPW7CO74YhgSffR2YBNqSIjXD2wF&uniplatform=NZKPT&language=CHS)`CNKI Nov 2023`
+  7. 关于中文长文本的自动文本摘要算法研究._李永星_.[\[pdf\]](https://kns.cnki.net/kcms2/article/abstract?v=z-q19lQZUWFWm3VAJd8LjBgJswv_7te-SqBC2MNxUcAt8jR-t_XatSFw-G7mdcxm0JQWiiihJpG1YPMx1EuzFX2OO12BlaM3qgn_GorNJV1vF2XokkgsCljPLXkJJqvURwmts5g0XpUKNCsn1IffMAUyfeW7R5SjSGDJeepKaS0=&uniplatform=NZKPT&language=CHS)`CNKI Jan 2023`
 
   ### _A.4 Long-Form Narrative Text_
  
