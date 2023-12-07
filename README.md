@@ -27,6 +27,7 @@ Long Form NLG Generation  Based on Large Language Models
   3. HEGEL: Hypergraph Transformer for Long Document Summarization.Haopeng Zhang, Xiao Liu, Jiawei Zhang, [\[pdf\]](https://aclanthology.org/2022.emnlp-main.692.pdf)`NLP Dec 7-11 2022`
   4. Long Document Summarization with Top-down and Bottom-up Inference.Bo Pang, Erik Nijkamp, Wojciech Kryscinski, Silvio Savarese, Yingbo Zhou, Caiming Xiong, [\[pdf\]](https://aclanthology.org/2023.findings-eacl.94.pdf)`EACL May 2-6 2023`
   5. Globalizing BERT-based Transformer Architectures for Long Document.Quentin Grail, Julien Perez, [\[pdf\]](https://aclanthology.org/2021.eacl-main.154/)`EACL April 19-23 2021`
+  6. PLSGA：阶段式长文本摘要生成方法._方缙, 李宝安, 游新冬 and 吕学强_.[\[pdf\]](https://kns.cnki.net/kcms2/article/abstract?v=z-q19lQZUWFmmUoqQWhR6VMffqBnwCKFrAciK1CfhSjuK90QS8IY7tkSt1vIfMiMwfmYgJ9pX0mm33l7Fu1IDLK2lZ3ol5-mqAyNmJZXz2iDDemeX05A-btaRGuW1EINVzU_mPW7CO74YhgSffR2YBNqSIjXD2wF&uniplatform=NZKPT&language=CHS)`CNKI Nov 2023`
 
   ### _A.4 Long-Form Narrative Text_
  
