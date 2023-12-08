@@ -86,6 +86,11 @@ Long Form NLG Generation  Based on Large Language Models
 
   1. Data augmentation in natural language processing: a novel text generation approach for long and short text classifers.Markus Bayer, Marc‑André Kaufhold, Björn Buchhold, Marcel Keller, Jörg Dallmeyer and Christian Reuter.[\[pdf\]](https://link.springer.com/content/pdf/10.1007/s13042-022-01553-3.pdf?pdf=button) `International Journal of Machine Learning and Cybernetics (2023)`.
   2. Augmented Language Models: a Survey  Grégoire Mialon， Roberto Dessì， Maria Lomel [\[pdf\]](https://arxiv.org/pdf/2302.07842.pdf) `Arxiv Feb 15 2023`
+  3. **"The BigScience ROOTS Corpus: A 1.6TB Composite Multilingual Dataset"**. *Laurençon et al*. NeurIPS 2022 Datasets and Benchmarks Track. [[paper](https://arxiv.org/abs/2303.03915)]
+  4. **"Deduplicating Training Data Makes Language Models Better"**. *Katherine Lee et al*. ACL 2022. [[paper](https://arxiv.org/abs/2107.06499)]
+  5. **"Deduplicating Training Data Mitigates Privacy Risks in Language Models"**. *Nikhil Kandpal et al*. ICML 2022. [[paper](https://arxiv.org/abs/2202.06539)]
+  6. **"Scaling Laws and Interpretability of Learning from Repeated Data"**. *Danny Hernandez et al*. arXiv 2022. [[paper](https://arxiv.org/abs/2205.10487)]
+  7. **"A Pretrainer's Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity"**. *Shayne Longpre et al*. arXiv 2023. [[paper](https://arxiv.org/abs/2305.13169)]
 
   ### C.2 Detector
 
