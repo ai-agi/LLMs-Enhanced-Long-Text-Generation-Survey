@@ -29,6 +29,7 @@ Long Form NLG Generation  Based on Large Language Models
   5. Globalizing BERT-based Transformer Architectures for Long Document.Quentin Grail, Julien Perez, [\[pdf\]](https://aclanthology.org/2021.eacl-main.154/)`EACL April 19-23 2021`
   6. PLSGA：阶段式长文本摘要生成方法._方缙, 李宝安, 游新冬 and 吕学强_.[\[pdf\]](https://kns.cnki.net/kcms2/article/abstract?v=z-q19lQZUWFmmUoqQWhR6VMffqBnwCKFrAciK1CfhSjuK90QS8IY7tkSt1vIfMiMwfmYgJ9pX0mm33l7Fu1IDLK2lZ3ol5-mqAyNmJZXz2iDDemeX05A-btaRGuW1EINVzU_mPW7CO74YhgSffR2YBNqSIjXD2wF&uniplatform=NZKPT&language=CHS)`CNKI Nov 2023`
   7. 关于中文长文本的自动文本摘要算法研究._李永星_.[\[pdf\]](https://kns.cnki.net/kcms2/article/abstract?v=z-q19lQZUWFWm3VAJd8LjBgJswv_7te-SqBC2MNxUcAt8jR-t_XatSFw-G7mdcxm0JQWiiihJpG1YPMx1EuzFX2OO12BlaM3qgn_GorNJV1vF2XokkgsCljPLXkJJqvURwmts5g0XpUKNCsn1IffMAUyfeW7R5SjSGDJeepKaS0=&uniplatform=NZKPT&language=CHS)`CNKI Jan 2023`
+  8. V2P: Vision-to-Prompt based Multi-Modal Product Summary Generation._Xuemeng Song, Liqiang Jing, Dengtian Lin, Zhongzhou Zhao, Haiqing Chen and Liqiang Nie_.[\[doi.org\]](https://dl.acm.org/doi/10.1145/3477495.3532076)`ACM 7 July 2022`
 
   ### _A.4 Long-Form Narrative Text_
  
@@ -41,6 +42,12 @@ Long Form NLG Generation  Based on Large Language Models
  3. Improving Chinese Story Generation via Awareness of Syntactic Dependencies and Semantics.Henglin Huang, Chen Tang, Tyler Loakman, Frank Guerin, Chenghua Lin, [\[pdf\]](https://aclanthology.org/2022.aacl-short.23.pdf)`AACL 19 Oct 2022`
  4. NGEP: A Graph-based Event Planning Framework for Story Generation._Chen Tang, Zhihao Zhang, Tyler Loakman, Chenghua Lin and Frank Guerin_.[\[pdf\]](https://aclanthology.org/2022.aacl-short.24.pdf)`ACL 2022`
  5. Improving Chinese Story Generation via Awareness of Syntactic Dependencies and Semantics._Henglin Huang, Chen Tang, Tyler Loakman, Frank Guerin1 and Chenghua Lin_.[\[pdf\]](https://aclanthology.org/2022.aacl-short.23.pdf)`ACL 2022`
+ 6. Make-A-Story: Visual Memory Conditioned Consistent Story Generation._Tanzila Rahman, Hsin-Ying Lee, Jian Ren, S. Tulyakov, Shweta Mahajan, L. Sigal_.[\[pdf\]](https://arxiv.org/pdf/2211.13319.pdf)`arXiv 6 May 2023`
+ 7. EtriCA: Event-Triggered Context-Aware Story Generation Augmented by Cross Attention._Chen Tang, Chenghua Lin, Hen-Hsen Huang, Frank Guerin and Zhihao Zhang_.[\[pdf\]](https://arxiv.org/pdf/2210.12463.pdf)`arXiv 22 Oct 2022`
+ 8. GraphPlan: Story Generation by Planning with Event Graph._Hong Chen, Raphael Shu, Hiroya Takamura, Hideki Nakayama_.[\[pdf\]](https://aclanthology.org/2021.inlg-1.42.pdf)`INLG Sept 2021`
+ 9. Controllable Story Generation with External Knowledge Using Large-Scale Language Models._Peng Xu, M. Patwary, M. Shoeybi, Raul Puri, Pascale Fung, Anima Anandkumar and Bryan Catanzaro_.[\[pdf\]](https://aclanthology.org/2020.emnlp-main.226.pdf)`NLP 2 Oct 2020`
+ 10. A Temporal Variational Model for Story Generation._David Wilmot and Frank Keller_.[\[pdf\]](https://arxiv.org/pdf/2109.06807.pdf)`arXiv 14 Sept 2021`
+ 11. Chinese Story Generation with FastText Transformer Network._Jhe-Wei Lin, Yunwen Gao and Rong-Guey Chang_.[\[doi.org\]](https://ieeexplore.ieee.org/document/8669087)`IEEE Feb 2019`
 
   ### _A.6 Reviews_
   
@@ -80,6 +87,60 @@ Long Form NLG Generation  Based on Large Language Models
   
   1. KNN-LM Does Not Improve Open-ended Text Generation._Shufan Wang, Yixiao Song, Andrew Drozdov, Aparna Garimella, Varun Manjunatha and Mohit Iyyer_.[\[pdf\]](https://arxiv.org/pdf/2305.14625.pdf)`arXiv 2023`
   2. Towards Informative Open-ended Text Generation with Dynamic Knowledge Triples._Zixuan Ren, Yang Zhao and Chengqing Zong_.[\[pdf\]](https://aclanthology.org/2023.findings-emnlp.210.pdf)`EMNLP 2023`
+   
+  ### _A.15 Poetry_
+  
+  1. ByGPT5: End-to-End Style-conditioned Poetry Generation with Token-free Language Models._Jonas Belouadi and Steffen Eger_.[\[pdf\]](https://aclanthology.org/2023.acl-long.406.pdf)`ACL 20 Dec 2022`
+  2. Chinese poetry generation model with UniLM._Zhangmin Ling and Lin Zhang_[\[doi.org\]](https://ieeexplore.ieee.org/document/9712702)`IEEE Jan 2022`
+  3. Modern French Poetry Generation with RoBERTa and GPT-2._Mika Hämäläinen, Khalid Alnajjar and T. Poibeau_.[\[pdf\]](https://arxiv.org/pdf/2212.02911.pdf)`arXiv Dec 2022`
+  4. Ancient poetry generation with an unsupervised method._Zhanjun Zhang, Haoyu Zhang, Qian Wan, Xiangyu Jia, Zhe Zhang and Jie Liu_.[\[pdf\]](https://link.springer.com/content/pdf/10.1007/s00521-021-06571-w.pdf)`Springer 12 Mar 2022`
+  5. A Sentiment and Style Controllable Approach for Chinese Poetry Generation._Yizhan Shao, Tong Shao, Minghao Wang, Peng Wang and Jie Gao_.[\[doi.org\]](https://dl.acm.org/doi/10.1145/3459637.3481964)`ACM 30 Oct 2021`
+  6. SP-GPT2: Semantics Improvement in Vietnamese Poetry Generation._Tuan-Duy H. Nguyen, H. Pham, T. Bui, Tan-Minh Nguyen, D. Luong and Phong Nguyen.[\[pdf\]](https://arxiv.org/pdf/2110.15723.pdf)`arXiv Oct 2021`
+  7. Classical Chinese Poetry Generation based on Transformer-XL._Jianli Zhao and H. Lee_.[\[doi.org\]](https://ieeexplore.ieee.org/document/9544316)`IEEE Aug 2021`
+  8. AfriKI: Machine-in-the-Loop Afrikaans Poetry Generation._Imke van Heerden and Anil Bas_.[\[pdf\]](https://aclanthology.org/2021.hcinlp-1.12.pdf)`HCINLP 30 March 2021`
+  9. Lingxi: A Diversity-aware Chinese Modern Poetry Generation System._Xinran Zhang, Maosong Sun, Jiafeng Liu, Xiaobing Li_.[\[pdf\]](https://aclanthology.org/2023.acl-demo.6.pdf)`ACL 27 Aug 2021`
+  10. Jiuge: A Human-Machine Collaborative Chinese Classical Poetry Generation System._Zhipeng Guo, Xiaoyuan Yi, Maosong Sun, Wenhao Li, Cheng Yang, Jian-na Liang, Huimin Chen, Yuhui Zhang and Ruoyu Li_.[\[pdf\]](https://nlp.csai.tsinghua.edu.cn/~chm/publications/acl2019_jiugedemo.pdf)`ACL 1 July 2019`
+  11. Compose Like Humans: Jointly Improving the Coherence and Novelty for Modern Chinese Poetry Generation._Lei Shen, Xiaoyu Guo and Meng Chen_.[\[pdf\]](https://arxiv.org/pdf/2005.01556.pdf)`arXiv 4 May 2020`
+  12. Image Inspired Poetry Generation in XiaoIce._Wen-Feng Cheng, Chao-Chung Wu, Ruihua Song, Jianlong Fu, Xing Xie and Jian-Yun Nie_.[\[pdf\]](https://arxiv.org/pdf/1808.03090.pdf)`arXiv 9 Aug 2018`
+  13. TPoet: Topic-Enhanced Chinese Poetry Generation._Liang Yang, Zhexu Shen, Fengqing Zhou, Hongfei Lin and Junpeng Li_.[\[doi.org\]](https://dl.acm.org/doi/10.1145/3593805)`ACM 19 June 2023`
+  14. GPT-based Generation for Classical Chinese Poetry._Yi Liao, Yasheng Wang, Qun Liu and Xin Jiang_.[\[pdf\]](https://arxiv.org/pdf/1907.00151.pdf)`arXiv 29 June 2019`
+  15. Automatic Generation Method of Ancient Poetry Based on LSTM._Hanshuang Zhang and Zhi Zhang_.[\[doi.org\]](https://ieeexplore.ieee.org/document/9248260)`IEEE Nov 2020`
+
+  ### _A.16 Script_
+  
+  1. GPT-2-based Human-in-the-loop Theatre Play Script Generation._Rudolf Rosa, Patrícia Schmidtová, Ondrej Dusek, Tomáš Musil, D. Mareček, Saad Obaid, Marie Nováková, Klára Vosecká and Josef Doležal_.[\[pdf\]](https://aclanthology.org/2022.wnu-1.4.pdf)`WNU 2022`
+  2. The Film Script Generation Analysis Based on the Fiction Book Text Using Machine Learning._Danylo Ivanchyshyn, V. Vysotska and S. Albota_[\[doi.org\]](https://ieeexplore.ieee.org/document/9648818)`IEEE Sept 2021`
+  3. Leveraging Narrative to Generate Movie Script._Yutao Zhu, Ruihua Song, J. Nie, Pan Du, Zhicheng Dou and Jin Zhou_.[\[doi.org\]](https://dl.acm.org/doi/10.1145/3507356)`ACM 9 March 2022`
+  4. "Kurosawa": A Script Writer's Assistant._Prerak Gandhi, Vishal Pramanik and P. Bhattacharyya_.[\[pdf\]](https://arxiv.org/pdf/2308.03122.pdf)`arXiv 6 Aug 2023`
+
+  ### _A.17 News_
+  
+  1. Fact-Enhanced Synthetic News Generation._Kai Shu, Yichuan Li, Kaize Ding and Huan Liu_.[\[pdf\]](https://arxiv.org/pdf/2012.04778.pdf)`arXiv 13 Dec 2020`
+  2. Topic-Preserving Synthetic News Generation: An Adversarial Deep Reinforcement Learning Approach._Ahmadreza Mosallanezhad, Kai Shu and Huan Liu_.[\[pdf\]](https://arxiv.org/pdf/2010.16324.pdf)`arXiv 30 Oct 2020`
+  3. Data-Driven News Generation for Automated Journalism._Leo Leppänen, Myriam Munezero, Mark Granroth-Wilding and Hannu (TT) Toivonen_.[\[pdf\]](https://www.cs.helsinki.fi/u/htoivone/pubs/leppanenetal_inlg_2017.pdf)`NLG 1 Sept 2017`
+  4. SHEG: summarization and headline generation of news articles using deep learning._R. Singh, Sonia Khetarpaul, R. Gorantla, Sai Giridhar Allada_.[\[pdf\]](https://link.springer.com/content/pdf/10.1007/s00521-020-05188-9.pdf)`Springer 23 July 2020`
+
+  ### _A.18 Paper_
+  
+  1. Neural Academic Paper Generation._Samet Demir, Uras Mutlu and Özgür Özdemir_.[\[pdf\]](https://arxiv.org/pdf/1912.01982.pdf)`arXiv 2 Dec 2019`
+
+  ### _A.19 Advertising Slogan_
+  
+  1. Japanese Advertising Slogan Generator using Case Frame and Word Vector._Kango Iwama and Yoshinobu Kano_.[\[pdf\]](https://aclanthology.org/W18-6526.pdf)`INLG Nov 2018`
+  2. Smart Generation System of Personalized Advertising Copy and Its Application to Advertising Practice and Research._Shasha Deng, Chee‐Wee Tan, Weijun Wang and Yu Pan_.[\[pdf\]](https://research-api.cbs.dk/ws/portalfiles/portal/61444279/chee_wee_tan_et_al_smart_generation_system_of_personalized_advertising_copy_acceptedversion.pdf)`Journal of Advertising 8 Aug 2019`
+  3. Scenario-based Multi-product Advertising Copywriting Generation for E-Commerce._Xueying Zhang, Kai Shen, Chi Zhang, Xiaochuan Fan, Yun Xiao, Zhen He, Bo Long and Lingfei Wu_.[\[pdf\]](https://arxiv.org/pdf/2205.10530.pdf)`arXiv 21 May 2022`
+
+  ### _A.20 Email_
+ 
+  1. Template-based Contact Email Generation for Job Recommendation._Qiuchi Li and C. Lioma_.[\[pdf\]](https://aclanthology.org/2022.gem-1.15.pdf)`IEEE 6 Dec 2022`
+  2. Automated email Generation for Targeted Attacks using Natural Language._Avisha Das and Rakesh M. Verma_.[\[pdf\]](https://arxiv.org/pdf/1908.06893.pdf)`arXiv 19 Aug 2019`
+
+  ### _A.21 Description_
+  
+  1. Towards Knowledge-Based Personalized Product Description Generation in E-commerce._Qibin Chen, Junyang Lin, Yichang Zhang, Hongxia Yang, Jingren Zhou and Jie Tang_.[\[pdf\]](https://arxiv.org/pdf/1903.12457.pdf)`arXiv 5 Jun 2019`
+  2. Probing Product Description Generation via Posterior Distillation._Haolan Zhan, Hainan Zhang, Hongshen Chen, Lei Shen, Zhuoye Ding, Yongjun Bao, Weipeng P. Yan and Yanyan Lan_.[\[pdf\]](https://arxiv.org/pdf/2103.01594.pdf)`arXiv 2 Mar 2021`
+  3. Automatic Generation of Pattern-controlled Product Description in E-commerce._Zhang Tao, Jin Zhang, Chengfu Huo and Weijun Ren_.[\[doi.org\]](https://dl.acm.org/doi/10.1145/3308558.3313407)`ACM 13 May 2019`
+  4. Description Generation for Points of Interest._Meng Zhou, Jingbo Zhou, Yanjie Fu, Z. Ren, Xiaoli Wang and Hui Xiong_.[\[doi.org\]](https://ieeexplore.ieee.org/document/9458894)`IEEE Apr 2021`
 
   ## B. Constraints Perspective
 
