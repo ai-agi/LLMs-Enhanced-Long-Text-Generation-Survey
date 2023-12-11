@@ -72,6 +72,15 @@ Long Form NLG Generation  Based on Large Language Models
   
   1. Transformer-based Hierarchical Topic-to-Essay Generation._Wangbo He and Yuan Rao_.[\[pdf\]](https://www.sciencedirect.com/science/article/pii/S1877050922005920)`ScienceDirect May 2022`
 
+  ### _A.13 Expository Text_
+  
+  1. Expository Text Generation: Imitate, Retrieve, Paraphrase._Nishant Balepur, Jie Huang and K. Chang_.[\[pdf\]](https://arxiv.org/pdf/2305.03276.pdf)`arXiv 2023`
+ 
+  ### _A.14 Open-ended Text_
+  
+  1. KNN-LM Does Not Improve Open-ended Text Generation._Shufan Wang, Yixiao Song, Andrew Drozdov, Aparna Garimella, Varun Manjunatha and Mohit Iyyer_.[\[pdf\]](https://arxiv.org/pdf/2305.14625.pdf)`arXiv 2023`
+  2. Towards Informative Open-ended Text Generation with Dynamic Knowledge Triples._Zixuan Ren, Yang Zhao and Chengqing Zong_.[\[pdf\]](https://aclanthology.org/2023.findings-emnlp.210.pdf)`EMNLP 2023`
+
   ## B. Constraints Perspective
 
   1. Fixed global memory for controllable long text generation. _Zheng Chen, Zhejun Liu._ [\[pdf\]](https://dl.acm.org/doi/abs/10.1007/s10489-022-04197-6). `Applied Intelligence, 2022`.
@@ -145,11 +154,12 @@ Mohammad Kalim Akram, Susana Guzman, Georgios Mastrapas, Saba Sturua, Bo Wang, M
   3. Long Text Generation by Modeling Sentence-Level and Discourse-Level Coherence.Jian Guan, Xiaoxi Mao, Changjie Fan, Zitao Liu, Wenbiao Ding, and Minlie Huang, [\[pdf\]](https://arxiv.org/pdf/2105.08963.pdf)`Arxiv 19 May 2021`.
   4. Coherent Long Text Generation by Contrastive Soft Prompt.Guandan Chen, Jiashu Pu, Yadong Xi, Rongsheng Zhang, [\[pdf\]](https://aclanthology.org/2022.gem-1.42.pdf)`ACL 7 Dec 2022`.
 
-  ### D.2 Pretrained Language Models
+  ### D.2 Pretrained Models
  
   1. Progressive Generation of Long Text with Pretrained Language Models.Bowen Tan, Zichao Yang, Maruan Al-Shedivat, Eric P. Xing, Zhiting Hu, [\[pdf\]](https://aclanthology.org/2021.naacl-main.341.pdf)`NAACL 11 Jun 2021`.
   2. A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation.Jian Guan, Fei Huang, Zhihao Zhao, Xiaoyan Zhu, Minlie Huang, [\[pdf\]](https://aclanthology.org/2020.tacl-1.7.pdf)`TACL 1 Jan 2020`.
   3. DIALOGLM: Pre-trained Model for Long Dialogue Understanding and Summarization.Ming Zhong, Yang Liu, Yichong Xu, Chenguang Zhu, Michael Zeng, [\[pdf\]](https://arxiv.org/pdf/2109.02492.pdf)`Arxiv 6 Jan 2022`.
+  4. Adapting Pretrained Text-to-Text Models for Long Text Sequences._Wenhan Xiong, Anchit Gupta, Shubham Toshniwal, Yashar Mehdad and Wen-tau Yih_.[\[pdf\]](https://arxiv.org/pdf/2209.10052.pdf)`arXiv 2022`
 
  ### D.3 Combination of RNN and Transformer
  
@@ -160,6 +170,7 @@ Mohammad Kalim Akram, Susana Guzman, Georgios Mastrapas, Saba Sturua, Bo Wang, M
  1. Text Generation from Knowledge Graphs with Graph Transformers.Rik Koncel-Kedziorski, Dhanush Bekal, Yi Luan, Mirella Lapata, and Hannaneh Hajishirzi, [\[pdf\]](https://aclanthology.org/N19-1238.pdf)`ACL 1 Apr 2019`.
  2. LongT5 Efficient Text-To-Text Transformer for Long Sequences.Mandy Guo, Joshua Ainslie, David Uthus, Santiago Ontañón, Jianmo Ni, Yun-Hsuan Sung, Yinfei Yang, [\[pdf\]](https://arxiv.org/pdf/2112.07916.pdf)`Arxiv 3 May 2022`.
  3. DISCODVT: Generating Long Text with Discourse-Aware Discrete Variational Transformer.Haozhe Ji, Minlie Huang, [\[pdf\]](https://aclanthology.org/2021.emnlp-main.347.pdf)`ACL 12 Oct 2021`.
+ 4. Generating Long Sequences with Sparse Transformers._Rewon Child, Scott Gray, Alec Radford and Ilya Sutskever_.[\[pdf\]](https://arxiv.org/pdf/1904.10509.pdf)`arXiv 2019`
 
  ### D.5 RNN (LSTM)
  
