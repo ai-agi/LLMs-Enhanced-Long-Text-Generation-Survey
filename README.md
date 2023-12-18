@@ -48,6 +48,7 @@ Long Form NLG Generation  Based on Large Language Models
  9. Controllable Story Generation with External Knowledge Using Large-Scale Language Models._Peng Xu, M. Patwary, M. Shoeybi, Raul Puri, Pascale Fung, Anima Anandkumar and Bryan Catanzaro_.[\[pdf\]](https://aclanthology.org/2020.emnlp-main.226.pdf)`NLP 2 Oct 2020`
  10. A Temporal Variational Model for Story Generation._David Wilmot and Frank Keller_.[\[pdf\]](https://arxiv.org/pdf/2109.06807.pdf)`arXiv 14 Sept 2021`
  11. Chinese Story Generation with FastText Transformer Network._Jhe-Wei Lin, Yunwen Gao and Rong-Guey Chang_.[\[doi.org\]](https://ieeexplore.ieee.org/document/8669087)`IEEE Feb 2019`
+ 12. Improving Pacing in Long-Form Story Planning._Yichen Wang, Kevin Yang, Xiaoming Liu and Dan Klein_.[\[pdf\]](https://arxiv.org/pdf/2311.04459.pdf)`arXiv 8 Nov 2023`
 
   ### _A.6 Reviews_
   
@@ -70,6 +71,7 @@ Long Form NLG Generation  Based on Large Language Models
   
   1. XWikiGen: Cross-lingual Summarization for Encyclopedic Text Generation in Low Resource Languages._Dhaval Taunk, Shivprasad Sagare, Anupam Patil, Shivansh Subramanian and Manish Gupta_.[\[pdf\]](https://dl.acm.org/doi/10.1145/3543507.3583405)`ACM Apr 2023`
   2. Long-Document Cross-Lingual Summarization._Shaohui Zheng, Zhixu Li, Jiaan Wang, Jianfeng Qu, An Liu, Lei Zhao and Zhigang Chen_.[\[pdf\]](https://dl.acm.org/doi/10.1145/3539597.3570479)`ACM Feb 2023`
+  3. mLongT5: A Multilingual and Efficient Text-To-Text Transformer for Longer Sequences._David C. Uthus, Santiago Ontan'on, J. Ainslie and Mandy Guo_.[\[pdf\]](https://arxiv.org/pdf/2305.11129.pdf)`arXiv 26 Oct 2023`
 
   ### _A.11 Persuasive Text_
   
@@ -232,6 +234,7 @@ Mohammad Kalim Akram, Susana Guzman, Georgios Mastrapas, Saba Sturua, Bo Wang, M
  2. LongT5 Efficient Text-To-Text Transformer for Long Sequences.Mandy Guo, Joshua Ainslie, David Uthus, Santiago Ontañón, Jianmo Ni, Yun-Hsuan Sung, Yinfei Yang, [\[pdf\]](https://arxiv.org/pdf/2112.07916.pdf)`Arxiv 3 May 2022`.
  3. DISCODVT: Generating Long Text with Discourse-Aware Discrete Variational Transformer.Haozhe Ji, Minlie Huang, [\[pdf\]](https://aclanthology.org/2021.emnlp-main.347.pdf)`ACL 12 Oct 2021`.
  4. Generating Long Sequences with Sparse Transformers._Rewon Child, Scott Gray, Alec Radford and Ilya Sutskever_.[\[pdf\]](https://arxiv.org/pdf/1904.10509.pdf)`arXiv 2019`
+ 5. Segmented Recurrent Transformer: An Efficient Sequence-to-Sequence Model._Yinghan Long, Sayeed Shafayet Chowdhury and Kaushik Roy_.[\[pdf\]](https://arxiv.org/pdf/2305.16340.pdf)`arXiv 23 Oct 2023`
 
  ### D.5 RNN (LSTM)
  
