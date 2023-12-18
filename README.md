@@ -89,6 +89,7 @@ Long Form NLG Generation  Based on Large Language Models
   
   1. KNN-LM Does Not Improve Open-ended Text Generation._Shufan Wang, Yixiao Song, Andrew Drozdov, Aparna Garimella, Varun Manjunatha and Mohit Iyyer_.[\[pdf\]](https://arxiv.org/pdf/2305.14625.pdf)`arXiv 2023`
   2. Towards Informative Open-ended Text Generation with Dynamic Knowledge Triples._Zixuan Ren, Yang Zhao and Chengqing Zong_.[\[pdf\]](https://aclanthology.org/2023.findings-emnlp.210.pdf)`EMNLP 2023`
+  3. Open-ended Long Text Generation via Masked Language Modeling._Xiaobo Liang, Zecheng Tang, Juntao Li and Min Zhang_.[\[pdf\]](https://aclanthology.org/2023.acl-long.13.pdf)`ACL July 2023`
    
   ### _A.15 Poetry_
   
@@ -235,6 +236,8 @@ Mohammad Kalim Akram, Susana Guzman, Georgios Mastrapas, Saba Sturua, Bo Wang, M
  3. DISCODVT: Generating Long Text with Discourse-Aware Discrete Variational Transformer.Haozhe Ji, Minlie Huang, [\[pdf\]](https://aclanthology.org/2021.emnlp-main.347.pdf)`ACL 12 Oct 2021`.
  4. Generating Long Sequences with Sparse Transformers._Rewon Child, Scott Gray, Alec Radford and Ilya Sutskever_.[\[pdf\]](https://arxiv.org/pdf/1904.10509.pdf)`arXiv 2019`
  5. Segmented Recurrent Transformer: An Efficient Sequence-to-Sequence Model._Yinghan Long, Sayeed Shafayet Chowdhury and Kaushik Roy_.[\[pdf\]](https://arxiv.org/pdf/2305.16340.pdf)`arXiv 23 Oct 2023`
+ 6. Fixed global memory for controllable long text generation._Zheng Chen and Zhejun Liu_.[\[pdf\]](https://link.springer.com/content/pdf/10.1007/s10489-022-04197-6.pdf)`Springer 20 Oct 2022`
+
 
  ### D.5 RNN (LSTM)
  
