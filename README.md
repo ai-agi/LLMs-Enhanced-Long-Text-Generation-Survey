@@ -56,7 +56,7 @@ Long Form NLG Generation  Based on Large Language Models
 
   ### _A.7 Steganography_
 
-  1. Generative Steganography Based on Long Readable Text Generation. _Yi Cao, Zhili Zhou, Chinmay Chakraborty, Meimin Wang, Q.M.Jonathan Wu, Xingming Sun and Keping Yu_.[\[pdf]\](https://ieeexplore.ieee.org/document/9778236?denied=)`IEEE 19 May 2022`
+  1. Generative Steganography Based on Long Readable Text Generation. _Yi Cao, Zhili Zhou, Chinmay Chakraborty, Meimin Wang, Q.M.Jonathan Wu, Xingming Sun and Keping Yu_.[\[pdf\]](https://ieeexplore.ieee.org/document/9778236?denied=)`IEEE 19 May 2022`
 
   ### _A.8 Table-to-Text_
   
