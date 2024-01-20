@@ -217,6 +217,7 @@ Mohammad Kalim Akram, Susana Guzman, Georgios Mastrapas, Saba Sturua, Bo Wang, M
   2. Long and Diverse Text Generation with Planning-based Hierarchical Variational Model.Zhihong Shao, Minlie Huang, Jiangtao Wen, Wenfei Xu, Xiaoyan Zhu,  [\[pdf\]](https://arxiv.org/pdf/1908.06605.pdf)`Arxiv *25 Aug 2019*`.
   3. Long Text Generation by Modeling Sentence-Level and Discourse-Level Coherence.Jian Guan, Xiaoxi Mao, Changjie Fan, Zitao Liu, Wenbiao Ding, and Minlie Huang, [\[pdf\]](https://arxiv.org/pdf/2105.08963.pdf)`Arxiv 19 May 2021`.
   4. Coherent Long Text Generation by Contrastive Soft Prompt.Guandan Chen, Jiashu Pu, Yadong Xi, Rongsheng Zhang, [\[pdf\]](https://aclanthology.org/2022.gem-1.42.pdf)`ACL 7 Dec 2022`.
+  5. LONGLORA: EFFICIENT FINE-TUNING OF LONG CONTEXT LARGE LANGUAGE MODELS. _Yukang Chen, Shengju Qian, Zhijian Liu, Haotian Tang, Song Han and Jiaya Jia_.[\[pdf\]](https://browse.arxiv.org/pdf/2309.12307.pdf)`arXiv 5 Dec 2023`
 
   ### D.2 Pretrained Models
  
