@@ -18,7 +18,7 @@ Long Form NLG Generation  Based on Large Language Models
   3. DIALOGLM: Pre-trained Model for Long Dialogue Understanding and Summarization.Ming Zhong, Yang Liu, Yichong Xu, Chenguang Zhu, Michael Zeng, [\[pdf\]](https://arxiv.org/pdf/2109.02492.pdf)`Arxiv 6 Jan 2022`
   4. Negative Guided Abstractive Dialogue Summarization.Junpeng Liu, Yanyan Zou, Yuxuan Xi, Shengjie Li, Mian Ma, Zhuoye Ding, Bo Long, [\[pdf\]](https://www.isca-speech.org/archive/pdfs/interspeech_2022/liu22r_interspeech.pdf)`Interspeech 18-22 Sept 2022`
   5. Improving Abstractive Dialogue Summarization with Graph Structures and Topic Words.Lulu Zhao, Weiran Xu, Jun Guo, [\[pdf\]](https://aclanthology.org/2020.coling-main.39/)`ICCL Dec 8-13 2020`
-
+  6. Improving Long Dialogue Summarization with Semantic Graph Representation._Bobby Yilun Hua, Zhaoyuan Deng and K. McKeown_.[\[pdf\]](https://pdfs.semanticscholar.org/4f75/d77de71d6c61cc2f732849a02cf4ff2f3282.pdf)`ACL July 2023`
 
   ### _A.3 Long Document Summarization_
   
