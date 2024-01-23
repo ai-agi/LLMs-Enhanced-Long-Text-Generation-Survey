@@ -302,6 +302,8 @@ i. RLHF
 ii RLAIF  
 iii. RLMoEF  
 
+### RAG enhanced Long Text Generation   
+
 # Project Maintainers & Contributors
 * Junwen Zhang ([@Fendi](https://github.com/ai-agi))
 * Yuanhao Lou ([@Yuanhao](https://github.com/zju22))
