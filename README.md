@@ -262,6 +262,27 @@ Mohammad Kalim Akram, Susana Guzman, Georgios Mastrapas, Saba Sturua, Bo Wang, M
 
 ## G. Research Hotpot, Trend and Challenge of Long Text Generation
 
+### G.1 The Combination of Agent and Long Text Generation
+
+### G.2 Hallucination in Long Text Generation**
+
+### G.3 Model Lossless Compression for Long Text Generation
+#### Quantization
+#### Distillation
+#### Pruning
+
+### G.4 Efficient Parameters Learning for Long Text Generation
+#### LoRA
+#### Flash Attention
+#### Sparse Attenation
+#### KV Quantization & Storage
+
+### G.5 Context Size Extension (Input Token Length) for Long Text Generation
+
+### G.6 Reasoning in Long Text Generation
+
+### G.7 Chain-of-Thought in Long Text Generation
+
 # Project Maintainers & Contributors
 * Junwen Zhang ([@Fendi](https://github.com/ai-agi))
 * Yuanhao Lou ([@Yuanhao](https://github.com/zju22))
