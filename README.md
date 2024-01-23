@@ -298,9 +298,9 @@ i. Image to Long Text Generation
 ii. Video to Long Text Generation  
 
 ### Align with Human for Long Text Generation  
-i. RLHF
-ii RLAIF
-iii. RLMoEF
+i. RLHF  
+ii RLAIF  
+iii. RLMoEF  
 
 # Project Maintainers & Contributors
 * Junwen Zhang ([@Fendi](https://github.com/ai-agi))
