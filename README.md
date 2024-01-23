@@ -277,7 +277,7 @@ iii. Pruning
 i. LoRA  
 ii. Flash Attention  
 iii. Sparse Attenation  
-iiii. KV Quantization & Storage  
+iv. KV Quantization & Storage  
 
 ### G.5 Context Size Extension (Input Token Length) for Long Text Generation
 
