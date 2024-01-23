@@ -264,6 +264,8 @@ Mohammad Kalim Akram, Susana Guzman, Georgios Mastrapas, Saba Sturua, Bo Wang, M
 
 ### G.1 The Combination of Agent and Long Text Generation
 
+### G.2 Long Text Generation with LLMs (above 13B)
+
 ### G.2 Hallucination in Long Text Generation
 
 ### G.3 Model Lossless Compression for Long Text Generation
@@ -283,9 +285,16 @@ iiii. KV Quantization & Storage
 
 ### G.7 Chain-of-Thought in Long Text Generation
 
-### G.8 Long Text Contraints Generation
+### G.8 Long Text Contraint Generation
 i.  Multi-Styles Long Text Generation  
-ii. Multi-Tasks Long Text Generation  
+ii. Multi-Tasks Long Text Generation 
+
+### Interactive Long Text Generation
+i. Editable Long Text Generation
+
+### Mutli-modal Text Generation
+i. Image to Long Text Generation
+ii. Video to Long Text Generation
 
 # Project Maintainers & Contributors
 * Junwen Zhang ([@Fendi](https://github.com/ai-agi))
