@@ -302,7 +302,7 @@ i. RLHF
 ii RLAIF  
 iii. RLMoEF  
 
-### RAG enhanced Long Text Generation   
+### RAG Enhanced Long Text Generation   
 
 # Project Maintainers & Contributors
 * Junwen Zhang ([@Fendi](https://github.com/ai-agi))
