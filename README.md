@@ -285,16 +285,16 @@ iiii. KV Quantization & Storage
 
 ### G.7 Chain-of-Thought in Long Text Generation
 
-### G.8 Long Text Contraint Generation
-i.  Multi-Styles Long Text Generation  
-ii. Multi-Tasks Long Text Generation 
+### G.8 Long Text Contraint Generation  
+i.  Multi-Styles Long Text Generation    
+ii. Multi-Tasks Long Text Generation   
 
 ### Interactive Long Text Generation
-i. Editable Long Text Generation
+i. Editable Long Text Generation  
 
 ### Mutli-modal Text Generation
-i. Image to Long Text Generation
-ii. Video to Long Text Generation
+i. Image to Long Text Generation  
+ii. Video to Long Text Generation  
 
 # Project Maintainers & Contributors
 * Junwen Zhang ([@Fendi](https://github.com/ai-agi))
