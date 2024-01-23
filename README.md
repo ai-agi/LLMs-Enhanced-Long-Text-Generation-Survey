@@ -151,7 +151,7 @@ Long Form NLG Generation  Based on Large Language Models
   2. Critic-Guided Decoding for Controlled Text Generation.Minbeom Kim, Hwanhee Lee, Kang Min Yoo, Joonsuk Park, Hwaran Lee, Kyomin Jung, [\[pdf\]](https://arxiv.org/pdf/2212.10938.pdf)`Arxiv 21 Dec 2022`
   3. MDM: Meta diffusion model for hard-constrained text generation._Wenjun Ke, Yikai Guo, Qi Liu, Wanyi Chen, Peng Wang, Haoran Luo and Zhizhao Luo_.[\[pdf\]](https://www.sciencedirect.com/science/article/abs/pii/S0950705123008973)`ScienceDirect Nov 2023`
 
-  ## C. Technique Perspective
+  ## C. Technique (Method) Perspective
 
   ### C.1 Data Augmentation
 
@@ -260,6 +260,7 @@ Mohammad Kalim Akram, Susana Guzman, Georgios Mastrapas, Saba Sturua, Bo Wang, M
 ## F. Long Text Generation Evaluation Methods and Metrics
  1. FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation. _Sewon Min, Kalpesh Krishna, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang Wei Koh, Mohit Iyyer, Luke Zettlemoyer and Hannaneh Hajishirzi_. [\[pdf\]](https://arxiv.org/pdf/2305.14251.pdf). [\[code\]](https://github.com/shmsw25/FActScore). `EMNLP 2023`.
 
+## G. Research Hotpot, Trend and Challenge of Long Text Generation
 
 # Project Maintainers & Contributors
 * Junwen Zhang ([@Fendi](https://github.com/ai-agi))
