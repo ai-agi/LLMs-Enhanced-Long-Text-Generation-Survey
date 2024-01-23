@@ -267,15 +267,15 @@ Mohammad Kalim Akram, Susana Guzman, Georgios Mastrapas, Saba Sturua, Bo Wang, M
 ### G.2 Hallucination in Long Text Generation**
 
 ### G.3 Model Lossless Compression for Long Text Generation
-#### Quantization
-#### Distillation
-#### Pruning
+i. Quantization
+ii. Distillation
+iii. Pruning
 
 ### G.4 Efficient Parameters Learning for Long Text Generation
-#### LoRA
-#### Flash Attention
-#### Sparse Attenation
-#### KV Quantization & Storage
+i. LoRA
+ii. Flash Attention
+iii. Sparse Attenation
+iiii. KV Quantization & Storage
 
 ### G.5 Context Size Extension (Input Token Length) for Long Text Generation
 
