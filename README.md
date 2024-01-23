@@ -264,7 +264,7 @@ Mohammad Kalim Akram, Susana Guzman, Georgios Mastrapas, Saba Sturua, Bo Wang, M
 
 ### G.1 The Combination of Agent and Long Text Generation
 
-### G.2 Hallucination in Long Text Generation**
+### G.2 Hallucination in Long Text Generation
 
 ### G.3 Model Lossless Compression for Long Text Generation
 i. Quantization  
