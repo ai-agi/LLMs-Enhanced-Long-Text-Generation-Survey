@@ -291,6 +291,7 @@ ii. Multi-Tasks Long Text Generation
 
 ### Interactive Long Text Generation
 i. Editable Long Text Generation  
+ii. Chat to Generate Long Text  
 
 ### Mutli-modal Text Generation
 i. Image to Long Text Generation  
