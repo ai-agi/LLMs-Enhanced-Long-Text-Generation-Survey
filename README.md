@@ -283,6 +283,10 @@ iiii. KV Quantization & Storage
 
 ### G.7 Chain-of-Thought in Long Text Generation
 
+### G.8 Long Text Contraints Generation
+i.  Multi-Styles Long Text Generation  
+ii. Multi-Tasks Long Text Generation  
+
 # Project Maintainers & Contributors
 * Junwen Zhang ([@Fendi](https://github.com/ai-agi))
 * Yuanhao Lou ([@Yuanhao](https://github.com/zju22))
