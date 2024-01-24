@@ -293,20 +293,20 @@ i.  Multi-Styles Long Text Generation
 ii. Multi-Tasks Long Text Generation  
 iii. Controllable Long Text Generation  
 
-### Interactive Long Text Generation
+### G.9 Interactive Long Text Generation
 i. Editable Long Text Generation   
 ii. Chat to Generate Long Text    
 
-### Mutli-modal Text Generation
+### G.10 Mutli-modal Text Generation
 i. Image to Long Text Generation  
 ii. Video to Long Text Generation  
 
-### Align with Human for Long Text Generation  
+### G.11 Align with Human for Long Text Generation  
 i. RLHF  
 ii RLAIF  
 iii. RLMoEF  
 
-### RAG Enhanced Long Text Generation   
+### G.12 RAG Enhanced Long Text Generation   
 
 # Project Maintainers & Contributors
 * Junwen Zhang ([@Fendi](https://github.com/ai-agi))
