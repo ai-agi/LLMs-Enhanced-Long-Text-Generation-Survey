@@ -289,8 +289,8 @@ ii. Tree-of-Thought
 iii. Graph-of-Thought  
 
 ### G.8 Long Text Contraint Generation  
-i.  Multi-Styles Long Text Generation    
-ii. Multi-Tasks Long Text Generation
+i.  Multi-Styles Long Text Generation     
+ii. Multi-Tasks Long Text Generation  
 iii. Controllable Long Text Generation  
 
 ### Interactive Long Text Generation
