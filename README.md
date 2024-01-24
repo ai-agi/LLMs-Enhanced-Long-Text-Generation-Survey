@@ -284,18 +284,18 @@ iv. KV Quantization & Storage
 ### G.6 Reasoning in Long Text Generation
 
 ### G.7 Chain-of-Thought in Long Text Generation
-i. Reflect CoT
-ii. Tree-of-Thought
-iii. Graph-of-Thought
+i. Reflect CoT  
+ii. Tree-of-Thought  
+iii. Graph-of-Thought  
 
 ### G.8 Long Text Contraint Generation  
 i.  Multi-Styles Long Text Generation    
 ii. Multi-Tasks Long Text Generation
-iii. Controllable Long Text Generation
+iii. Controllable Long Text Generation  
 
 ### Interactive Long Text Generation
-i. Editable Long Text Generation  
-ii. Chat to Generate Long Text  
+i. Editable Long Text Generation   
+ii. Chat to Generate Long Text    
 
 ### Mutli-modal Text Generation
 i. Image to Long Text Generation  
