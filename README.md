@@ -145,6 +145,8 @@ Long Form NLG Generation  Based on Large Language Models
   3. Automatic Generation of Pattern-controlled Product Description in E-commerce._Zhang Tao, Jin Zhang, Chengfu Huo and Weijun Ren_.[\[doi.org\]](https://dl.acm.org/doi/10.1145/3308558.3313407)`ACM 13 May 2019`
   4. Description Generation for Points of Interest._Meng Zhou, Jingbo Zhou, Yanjie Fu, Z. Ren, Xiaoli Wang and Hui Xiong_.[\[doi.org\]](https://ieeexplore.ieee.org/document/9458894)`IEEE Apr 2021`
 
+### _A.22 Code_
+
   ## B. Constraints Perspective
 
   1. Fixed global memory for controllable long text generation. _Zheng Chen, Zhejun Liu._ [\[pdf\]](https://dl.acm.org/doi/abs/10.1007/s10489-022-04197-6). `Applied Intelligence, 2022`.
